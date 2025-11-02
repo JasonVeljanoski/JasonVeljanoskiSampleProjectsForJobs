@@ -1,7 +1,0 @@
-*.pyc
-__pycache__
-.vscode
-.venv
-.idea
-.DS_Store
-*.sql
