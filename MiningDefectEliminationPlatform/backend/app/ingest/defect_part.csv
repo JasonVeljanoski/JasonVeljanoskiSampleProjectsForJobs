@@ -1,0 +1,1035 @@
+﻿object,part_code,part
+Accumulator,A002,Accumulator
+Accumulator,B035,Bladder
+Accumulator,B051,Bolt
+Accumulator,F021,Fitting
+Accumulator,L018,Line
+Accumulator,Z999,No Object Found
+Accumulator,V001,Valve
+Accumulator,Z995,Whole Unit
+Agitator and Mixer,Z999,No Object Found
+Agitator and Mixer,Z995,Whole Unit
+Air Compressor,B015,Bearing
+Air Compressor,C059,Compressor Assembly
+Air Compressor,C062,Condenser Assembly
+Air Compressor,E044,Electronic Components
+Air Compressor,E007,Element
+Air Compressor,F061,Fastener
+Air Compressor,F011,Filter
+Air Compressor,G062,Guide Vanes
+Air Compressor,L056,Louvres
+Air Compressor,L038,Lubricant
+Air Compressor,Z999,No Object Found
+Air Compressor,R055,Rotor
+Air Compressor,S009,Screw
+Air Compressor,S012,Seal
+Air Compressor,S044,Shaft
+Air Compressor,S209,Structure
+Air Compressor,T070,Tube
+Air Compressor,V048,Vee Belt
+Air Compressor,Z995,Whole Unit
+Air Conditioner,B015,Bearing
+Air Conditioner,C055,Coil
+Air Conditioner,C149,Component
+Air Conditioner,C059,Compressor Assembly
+Air Conditioner,C153,Condensate Drain
+Air Conditioner,C062,Condenser Assembly
+Air Conditioner,C067,Connector
+Air Conditioner,F011,Filter
+Air Conditioner,Z999,No Object Found
+Air Conditioner,P018,Piping
+Air Conditioner,T018,Terminal
+Air Conditioner,Z995,Whole Unit
+Air Receiver/Vessel,A043,Air Oil Separator
+Air Receiver/Vessel,L018,Line
+Air Receiver/Vessel,Z999,No Object Found
+Air Receiver/Vessel,R025,Reservoir
+Air Receiver/Vessel,V001,Valve
+Air Receiver/Vessel,V052,Vessel
+Air Receiver/Vessel,Z995,Whole Unit
+Alternator,A038,Alternator
+Alternator,B015,Bearing
+Alternator,B029,Belt
+Alternator,B051,Bolt
+Alternator,C002,Cable
+Alternator,C072,Control
+Alternator,C093,Coupling
+Alternator,D066,Drive Belt
+Alternator,F011,Filter
+Alternator,Z999,No Object Found
+Alternator,R022,Relay
+Alternator,T093,Temperature Controller
+Alternator,T094,Terminal Box
+Alternator,T020,Terminator
+Alternator,Z995,Whole Unit
+Alternator,W057,Winding
+Battery,B010,Battery
+Battery,B012,Battery Terminal
+Battery,C002,Cable
+Battery,C070,Contactor
+Battery,S148,Switch
+Battery,T020,Terminator
+Bearing Slew,B015,Bearing
+Bearing Slew,B051,Bolt
+Bearing Slew,F061,Fastener
+Bearing Slew,G055,Gear Teeth
+Bearing Slew,S012,Seal
+Belt Weigher,Z999,No Object Found
+Belt Weigher,Z995,Whole Unit
+Bin,B086,Bin
+Bin,B051,Bolt
+Bin,E038,Earth Bonding
+Bin,F070,Footings
+Bin,H002,Handrail
+Bin,L020,Liner
+Bin,Z999,No Object Found
+Bin,P075,Pipe Shields
+Bin,S209,Structure
+Bin,T107,Transmitter
+Bin,Z995,Whole Unit
+Bin,W058,Wing Walls
+Blower,B015,Bearing
+Blower,F001,Fan
+Blower,F061,Fastener
+Blower,F011,Filter
+Blower,I009,Impeller
+Blower,M019,Motor
+Blower,Z999,No Object Found
+Blower,Z995,Whole Unit
+Brakes,B051,Bolt
+Brakes,B089,Brake Band
+Brakes,B090,Brake Coils
+Brakes,B091,Brake Disc
+Brakes,B060,Brake Pad
+Brakes,B092,Brake System
+Brakes,Z999,No Object Found
+Brakes,S012,Seal
+Brakes,S030,Sensor
+Brakes,Z995,Whole Unit
+Brakes,W033,Wiring
+Building,B095,Building
+Building,D025,Door
+Building,E043,Electrical Device
+Building,Z999,No Object Found
+Building,R080,Regulations
+Building,S012,Seal
+Building,S209,Structure
+Building,V050,Ventilation System
+Building,Z995,Whole Unit
+Cable,C002,Cable
+Cable,C125,Cable Insulation
+Cable,C126,Cable Splice
+Cable,C127,Cable Terminals
+Cable,C063,Conductor
+Cable,C067,Connector
+Cable,H006,Harness
+Cable,Z999,No Object Found
+Cable,S211,Surge Arrester
+Cable,T020,Terminator
+Cable,Z995,Whole Unit
+Chute,B051,Bolt
+Chute,C136,Chute
+Chute,C137,Chute Supports
+Chute,D025,Door
+Chute,H029,Hose
+Chute,L020,Liner
+Chute,M042,Mesh
+Chute,Z999,No Object Found
+Chute,Z995,Whole Unit
+Circuit Breaker,B093,Breaker
+Circuit Breaker,C002,Cable
+Circuit Breaker,C043,Circuit Breaker
+Circuit Breaker,C146,Clusters
+Circuit Breaker,C067,Connector
+Circuit Breaker,F061,Fastener
+Circuit Breaker,I034,Insulation
+Circuit Breaker,Z999,No Object Found
+Circuit Breaker,P085,Protection Relay
+Circuit Breaker,R022,Relay
+Circuit Breaker,S012,Seal
+Circuit Breaker,T018,Terminal
+Circuit Breaker,T101,Toroid
+Circuit Breaker,Z995,Whole Unit
+Converyor,A048,Area
+Converyor,B015,Bearing
+Converyor,B029,Belt
+Converyor,B051,Bolt
+Converyor,C149,Component
+Converyor,C152,Concrete
+Converyor,E038,Earth Bonding
+Converyor,G059,Guide Beams
+Converyor,M023,Mount
+Converyor,Z999,No Object Found
+Converyor,S053,Sheave
+Converyor,S190,Skirt Clamping
+Converyor,S070,Skirts
+Converyor,S209,Structure
+Converyor,Z995,Whole Unit
+Conveyor Belt,B015,Bearing
+Conveyor Belt,B029,Belt
+Conveyor Belt,B051,Bolt
+Conveyor Belt,C002,Cable
+Conveyor Belt,F061,Fastener
+Conveyor Belt,G048,Guard
+Conveyor Belt,J008,Joint
+Conveyor Belt,M003,Magnet
+Conveyor Belt,Z999,No Object Found
+Conveyor Belt,O001,Oil
+Conveyor Belt,S100,Splice
+Conveyor Belt,S209,Structure
+Conveyor Belt,V001,Valve
+Conveyor Belt,Z995,Whole Unit
+Cooling System,C152,Concrete
+Cooling System,S209,Structure
+Cooling System,T070,Tube
+Coupling,B015,Bearing
+Coupling,C093,Coupling
+Coupling,C158,Coupling Guard
+Coupling,E042,Elastomer
+Coupling,F061,Fastener
+Coupling,F021,Fitting
+Coupling,G048,Guard
+Coupling,Z999,No Object Found
+Coupling,S012,Seal
+Coupling,T103,Torque Limiter
+Coupling,Z995,Whole Unit
+Crane-Hoist,B015,Bearing
+Crane-Hoist,B059,Brake
+Crane-Hoist,C031,Chain
+Crane-Hoist,C032,Chain
+Crane-Hoist,C070,Contactor
+Crane-Hoist,C162,Crane
+Crane-Hoist,D060,Davit Arm
+Crane-Hoist,F061,Fastener
+Crane-Hoist,F072,Foundation
+Crane-Hoist,H048,Hoist
+Crane-Hoist,H027,Hook
+Crane-Hoist,I004,ID Tag
+Crane-Hoist,L049,Limit Switch
+Crane-Hoist,Z999,No Object Found
+Crane-Hoist,S202,Spring Balancer
+Crane-Hoist,S209,Structure
+Crane-Hoist,Z995,Whole Unit
+Crane-Hoist,W061,Wire Rope
+Crane-Hoist,W033,Wiring
+Crusher,B015,Bearing
+Crusher,B037,Blade
+Crusher,C164,Crusher
+Crusher,F061,Fastener
+Crusher,F023,Flange
+Crusher,G048,Guard
+Crusher,M031,Mainframe Ring
+Crusher,M023,Mount
+Crusher,Z999,No Object Found
+Crusher,P074,Pinion Gear
+Crusher,S012,Seal
+Crusher,S090,Spacer
+Crusher,Z995,Whole Unit
+Cyclone,Z999,No Object Found
+Cyclone,Z995,Whole Unit
+Dewatering,Z999,No Object Found
+Dewatering,Z995,Whole Unit
+Distribution Board,C002,Cable
+Distribution Board,C043,Circuit Breaker
+Distribution Board,D063,Distribution Board
+Distribution Board,I004,ID Tag
+Distribution Board,Z999,No Object Found
+Distribution Board,O012,Outlet
+Distribution Board,R075,RCD
+Distribution Board,S012,Seal
+Distribution Board,S066,Sign
+Distribution Board,T018,Terminal
+Distribution Board,Z995,Whole Unit
+Drive Shaft,B015,Bearing
+Drive Shaft,B051,Bolt
+Drive Shaft,G038,Grease Line
+Drive Shaft,S012,Seal
+Drive Shaft,S044,Shaft
+Drive Shaft,T091,Tail Shaft
+Drive Shaft,T104,Traction Wheel
+Drive Sprocket,C153,Condensate Drain
+Drive Sprocket,G046,Grub Screw
+Drive Sprocket,H034,Hub
+Drive Sprocket,S106,Sprocket
+Drive Sprocket,S203,Sprocket Hub
+Dryer,C153,Condensate Drain
+Dryer,C062,Condenser Assembly
+Dryer,D043,Dryer
+Dryer,F011,Filter
+Dryer,H045,Heat Exchanger
+Dryer,Z999,No Object Found
+Dryer,S012,Seal
+Dryer,T025,Thermostat
+Dryer,T070,Tube
+Dryer,Z995,Whole Unit
+Electrical Cabinet,Z999,No Object Found
+Electrical Cabinet,Z995,Whole Unit
+Electrical Controls,A041,Aerotech
+Electrical Controls,A048,Area
+Electrical Controls,B010,Battery
+Electrical Controls,B095,Building
+Electrical Controls,C002,Cable
+Electrical Controls,C138,Circuit
+Electrical Controls,C043,Circuit Breaker
+Electrical Controls,C149,Component
+Electrical Controls,C067,Connector
+Electrical Controls,C070,Contactor
+Electrical Controls,C075,Control Panel
+Electrical Controls,C080,Controller
+Electrical Controls,C156,Counter
+Electrical Controls,E001,Earth
+Electrical Controls,E039,Earth Grid
+Electrical Controls,E002,ECM
+Electrical Controls,E009,Enclosure
+Electrical Controls,E047,Engine
+Electrical Controls,F061,Fastener
+Electrical Controls,G027,Gland
+Electrical Controls,G057,Globe
+Electrical Controls,H004,Hardware
+Electrical Controls,H047,HMI
+Electrical Controls,I004,ID Tag
+Electrical Controls,L039,Lamp
+Electrical Controls,L015,Light
+Electrical Controls,L018,Line
+Electrical Controls,L052,Local Control
+Electrical Controls,M035,MCC
+Electrical Controls,M043,Meter
+Electrical Controls,M023,Mount
+Electrical Controls,Z999,No Object Found
+Electrical Controls,P005,Panel
+Electrical Controls,P073,PC Hardware
+Electrical Controls,P034,PLC
+Electrical Controls,P043,Power Supply
+Electrical Controls,P086,Protective Device
+Electrical Controls,P068,Push Button
+Electrical Controls,R022,Relay
+Electrical Controls,R088,RTD
+Electrical Controls,S012,Seal
+Electrical Controls,S030,Sensor
+Electrical Controls,S066,Sign
+Electrical Controls,S148,Switch
+Electrical Controls,S158,System
+Electrical Controls,T018,Terminal
+Electrical Controls,T020,Terminator
+Electrical Controls,T031,Timer
+Electrical Controls,T101,Toroid
+Electrical Controls,T105,Transformer
+Electrical Controls,V051,Vesda Tube
+Electrical Controls,Z995,Whole Unit
+Electrical Harness,B093,Breaker
+Electrical High Voltage,B010,Battery
+Electrical High Voltage,C002,Cable
+Electrical High Voltage,C070,Contactor
+Electrical High Voltage,G003,Gas
+Electrical High Voltage,R066,Rack
+Electrical High Voltage,R077,Recloser
+Electrical High Voltage,R022,Relay
+Electrical High Voltage,T018,Terminal
+Electrical Protection,B010,Battery
+Electrical Protection,B051,Bolt
+Electrical Protection,B067,Buffer
+Electrical Protection,C002,Cable
+Electrical Protection,C124,Cable Anchors
+Electrical Protection,C043,Circuit Breaker
+Electrical Protection,C149,Component
+Electrical Protection,C067,Connector
+Electrical Protection,C070,Contactor
+Electrical Protection,E001,Earth
+Electrical Protection,E018,E-Stop
+Electrical Protection,F061,Fastener
+Electrical Protection,G003,Gas
+Electrical Protection,G012,Gauge
+Electrical Protection,I004,ID Tag
+Electrical Protection,I034,Insulation
+Electrical Protection,L039,Lamp
+Electrical Protection,L040,Lamp Holder
+Electrical Protection,L015,Light
+Electrical Protection,L048,Lightning Protection
+Electrical Protection,N012,NER
+Electrical Protection,Z999,No Object Found
+Electrical Protection,R066,Rack
+Electrical Protection,R078,Reflector
+Electrical Protection,S012,Seal
+Electrical Protection,S066,Sign
+Electrical Protection,S209,Structure
+Electrical Protection,S211,Surge Arrester
+Electrical Protection,S148,Switch
+Electrical Protection,S215,Switchgear
+Electrical Protection,T018,Terminal
+Electrical Protection,T020,Terminator
+Electrical Protection,T105,Transformer
+Electrical Protection,Z995,Whole Unit
+Electrical Protection,W033,Wiring
+Electrical System,B010,Battery
+Electrical System,B084,Battery Charger
+Electrical System,B073,Busbar
+Electrical System,C138,Circuit
+Electrical System,C043,Circuit Breaker
+Electrical System,C149,Component
+Electrical System,C067,Connector
+Electrical System,E001,Earth
+Electrical System,F047,Fuse
+Electrical System,G003,Gas
+Electrical System,G012,Gauge
+Electrical System,G058,GPO
+Electrical System,I004,ID Tag
+Electrical System,P083,Probe
+Electrical System,R075,RCD
+Electrical System,S012,Seal
+Electrical System,S215,Switchgear
+Electrical System,T018,Terminal
+Electrical System,T020,Terminator
+Electrical System,T105,Transformer
+Engine Assembly,B010,Battery
+Engine Assembly,B015,Bearing
+Engine Assembly,B063,Breather
+Engine Assembly,C109,Cylinder
+Engine Assembly,D001,Damper
+Engine Assembly,E001,Earth
+Engine Assembly,E047,Engine
+Engine Assembly,F011,Filter
+Engine Assembly,F074,Fuel
+Engine Assembly,G007,Gasket
+Engine Assembly,G026,Generator
+Engine Assembly,H046,Heater
+Engine Assembly,H029,Hose
+Engine Assembly,L020,Liner
+Engine Assembly,L038,Lubricant
+Engine Assembly,M023,Mount
+Engine Assembly,O001,Oil
+Engine Assembly,R055,Rotor
+Engine Assembly,S012,Seal
+Engine Assembly,T069,Trunnion
+Engine Assembly,T070,Tube
+Engine Assembly,V046,Valve Rotators
+Engine Assembly,V042,Vent
+Engine Assembly,W057,Winding
+Exciter,B015,Bearing
+Exciter,B051,Bolt
+Exciter,E050,Exciter
+Exciter,F061,Fastener
+Exciter,Z999,No Object Found
+Exciter,O001,Oil
+Exciter,S012,Seal
+Exciter,S213,Swing Segment
+Exciter,Z995,Whole Unit
+Exhaust System,D001,Damper
+Exhaust System,M005,Manifold
+Fan Assembly,B015,Bearing
+Fan Assembly,B037,Blade
+Fan Assembly,C067,Connector
+Fan Assembly,D001,Damper
+Fan Assembly,F001,Fan
+Fan Assembly,F061,Fastener
+Fan Assembly,I009,Impeller
+Fan Assembly,Z999,No Object Found
+Fan Assembly,P050,Pulley
+Fan Assembly,S187,Silencer
+Fan Assembly,S105,Spring
+Fan Assembly,V048,Vee Belt
+Fan Assembly,Z995,Whole Unit
+Feeder,F063,Feeder Pan
+Feeder,L020,Liner
+Feeder,Z999,No Object Found
+Feeder,W019,Weld
+Feeder,Z995,Whole Unit
+Filter,A008,Air Cleaner
+Filter,B088,Bowl
+Filter,B063,Breather
+Filter,C149,Component
+Filter,C067,Connector
+Filter,E007,Element
+Filter,E048,Engine Oil Filter
+Filter,F011,Filter
+Filter,F065,Filter Housing
+Filter,F074,Fuel
+Filter,F076,Fuel Line
+Filter,L018,Line
+Filter,L038,Lubricant
+Filter,L058,Lubricator
+Filter,M044,Moisture Trap
+Filter,Z999,No Object Found
+Filter,O001,Oil
+Filter,P052,Pump
+Filter,S012,Seal
+Filter,V001,Valve
+Filter,Z995,Whole Unit
+Fire Suppression System,A003,Actuator
+Fire Suppression System,A045,Alarm Log
+Fire Suppression System,F021,Fitting
+Fire Suppression System,F067,Flame Detector
+Fire Suppression System,F075,Fuel Injector
+Fire Suppression System,H029,Hose
+Fire Suppression System,I004,ID Tag
+Fire Suppression System,M023,Mount
+Fire Suppression System,P005,Panel
+Fire Suppression System,S158,System
+Fire Suppression System,W033,Wiring
+Fuel Injector,F075,Fuel Injector
+Fuel Injector,O001,Oil
+Gearbox,B015,Bearing
+Gearbox,B051,Bolt
+Gearbox,B063,Breather
+Gearbox,C132,Casing
+Gearbox,F061,Fastener
+Gearbox,G055,Gear Teeth
+Gearbox,G025,Gearbox
+Gearbox,Z999,No Object Found
+Gearbox,O001,Oil
+Gearbox,R084,Rollback Device
+Gearbox,S012,Seal
+Gearbox,S065,Sight Glass
+Gearbox,S209,Structure
+Gearbox,T102,Torque Arm
+Gearbox,T070,Tube
+Gearbox,Z995,Whole Unit
+General Object Parts,Z999,No Object Found
+General Object Parts,Z995,Whole Unit
+Genset,B010,Battery
+Genset,B015,Bearing
+Genset,C067,Connector
+Genset,D015,Diode
+Genset,E001,Earth
+Genset,E047,Engine
+Genset,E050,Exciter
+Genset,G026,Generator
+Genset,H046,Heater
+Genset,I034,Insulation
+Genset,Z999,No Object Found
+Genset,R055,Rotor
+Genset,S012,Seal
+Genset,S030,Sensor
+Genset,S113,Stator
+Genset,V042,Vent
+Genset,V050,Ventilation System
+Genset,Z995,Whole Unit
+Genset,W057,Winding
+Heater,C080,Controller
+Heater,E007,Element
+Heater,H046,Heater
+Heater,I004,ID Tag
+Heater,Z999,No Object Found
+Heater,O013,Oil Flow Path
+Heater,Z995,Whole Unit
+Hopper,B051,Bolt
+Hopper,L042,Launder
+Hopper,L043,Launder Level
+Hopper,L020,Liner
+Hopper,Z999,No Object Found
+Hopper,Z995,Whole Unit
+Hose Line and Fitting,A049,Assembly
+Hose Line and Fitting,F021,Fitting
+Hose Line and Fitting,H029,Hose
+Hydraulic Motor,B059,Brake
+Hydraulic Motor,M019,Motor
+Hydraulic Motor,M023,Mount
+Hydraulic System,B063,Breather
+Hydraulic System,C001,Cabinet
+Hydraulic System,C149,Component
+Hydraulic System,F011,Filter
+Hydraulic System,H050,HPU
+Hydraulic System,H052,Hydraulic Power Pack
+Hydraulic System,L018,Line
+Hydraulic System,O001,Oil
+Hydraulic System,P052,Pump
+Hydraulic System,S209,Structure
+Hydraulic System,V001,Valve
+Idler/Roller,B015,Bearing
+Idler/Roller,B051,Bolt
+Idler/Roller,C131,Carry Rollers
+Idler/Roller,C032,Chain
+Idler/Roller,F038,Frame
+Idler/Roller,I005,Idler
+Idler/Roller,I027,Idler Frame
+Idler/Roller,Z999,No Object Found
+Idler/Roller,R046,Roller
+Idler/Roller,R086,Roller Shell
+Idler/Roller,S012,Seal
+Idler/Roller,S182,Shaft Assembly
+Idler/Roller,S054,Shell
+Idler/Roller,S189,Sizer
+Idler/Roller,S209,Structure
+Idler/Roller,T099,Tooth Segments
+Idler/Roller,Z995,Whole Unit
+Instruments/Controls,A046,Analyser
+Instruments/Controls,B010,Battery
+Instruments/Controls,B015,Bearing
+Instruments/Controls,B057,Box
+Instruments/Controls,C002,Cable
+Instruments/Controls,C006,Camera
+Instruments/Controls,C016,Card
+Instruments/Controls,C138,Circuit
+Instruments/Controls,C067,Connector
+Instruments/Controls,C070,Contactor
+Instruments/Controls,D021,Display
+Instruments/Controls,E001,Earth
+Instruments/Controls,E043,Electrical Device
+Instruments/Controls,E007,Element
+Instruments/Controls,E046,Encoder
+Instruments/Controls,G012,Gauge
+Instruments/Controls,G047,Guage
+Instruments/Controls,G048,Guard
+Instruments/Controls,I004,ID Tag
+Instruments/Controls,I013,Indicator
+Instruments/Controls,I033,Instrument
+Instruments/Controls,I021,Insulator
+Instruments/Controls,I023,Isolator
+Instruments/Controls,J012,Junction Box
+Instruments/Controls,M039,Measuring Probe Flaps
+Instruments/Controls,M040,Measuring Probes
+Instruments/Controls,M043,Meter
+Instruments/Controls,M023,Mount
+Instruments/Controls,Z999,No Object Found
+Instruments/Controls,P018,Piping
+Instruments/Controls,P090,Pulley Tabs
+Instruments/Controls,R085,Roller Assembly
+Instruments/Controls,R088,RTD
+Instruments/Controls,S012,Seal
+Instruments/Controls,S030,Sensor
+Instruments/Controls,S180,Sensor Connections
+Instruments/Controls,S066,Sign
+Instruments/Controls,S148,Switch
+Instruments/Controls,S158,System
+Instruments/Controls,T018,Terminal
+Instruments/Controls,T094,Terminal Box
+Instruments/Controls,T020,Terminator
+Instruments/Controls,T095,Thermowell
+Instruments/Controls,T054,Transducer
+Instruments/Controls,T107,Transmitter
+Instruments/Controls,T070,Tube
+Instruments/Controls,Z995,Whole Unit
+Locomotive,Z999,No Object Found
+Locomotive,Z995,Whole Unit
+Lubrication Unit,B051,Bolt
+Lubrication Unit,C128,Canisters
+Lubrication Unit,D021,Display
+Lubrication Unit,F011,Filter
+Lubrication Unit,G036,Grease
+Lubrication Unit,G038,Grease Line
+Lubrication Unit,I016,Injector
+Lubrication Unit,I029,Injector Block
+Lubrication Unit,I030,Injector Setting
+Lubrication Unit,L018,Line
+Lubrication Unit,L057,Lube Rollers
+Lubrication Unit,L038,Lubricant
+Lubrication Unit,O001,Oil
+Lubrication Unit,P052,Pump
+Lubrication Unit,R025,Reservoir
+Lubrication Unit,S012,Seal
+Lubrication Unit,S065,Sight Glass
+Lubrication Unit,S097,Spindle
+Lubrication Unit,T008,Tank
+Lubrication Unit,T039,Tool Holder
+Lubrication Unit,V001,Valve
+Manifold,C055,Coil
+Manifold,M005,Manifold
+Metal Detector,C055,Coil
+Metal Detector,D062,Detector
+Metal Detector,F048,Flag
+Metal Detector,G027,Gland
+Metal Detector,Z999,No Object Found
+Metal Detector,S066,Sign
+Metal Detector,Z995,Whole Unit
+Monorail,Z999,No Object Found
+Monorail,Z995,Whole Unit
+Motor,B015,Bearing
+Motor,B051,Bolt
+Motor,B063,Breather
+Motor,C132,Casing
+Motor,C085,Cooling System
+Motor,C161,Cowling
+Motor,F001,Fan
+Motor,F038,Frame
+Motor,G014,Gear
+Motor,G055,Gear Teeth
+Motor,G027,Gland
+Motor,G048,Guard
+Motor,I004,ID Tag
+Motor,I034,Insulation
+Motor,M019,Motor
+Motor,M023,Mount
+Motor,Z999,No Object Found
+Motor,S012,Seal
+Motor,S065,Sight Glass
+Motor,S066,Sign
+Motor,T094,Terminal Box
+Motor,Z995,Whole Unit
+Motor,W033,Wiring
+Muffler,B097,Bus Insulation
+Panel (Marshalling Etc),B057,Box
+Panel (Marshalling Etc),B097,Bus Insulation
+Panel (Marshalling Etc),C002,Cable
+Panel (Marshalling Etc),C149,Component
+Panel (Marshalling Etc),C067,Connector
+Panel (Marshalling Etc),C070,Contactor
+Panel (Marshalling Etc),C154,Control Cable
+Panel (Marshalling Etc),C075,Control Panel
+Panel (Marshalling Etc),C078,Control System
+Panel (Marshalling Etc),D025,Door
+Panel (Marshalling Etc),E001,Earth
+Panel (Marshalling Etc),E038,Earth Bonding
+Panel (Marshalling Etc),E047,Engine
+Panel (Marshalling Etc),E018,E-Stop
+Panel (Marshalling Etc),F011,Filter
+Panel (Marshalling Etc),G027,Gland
+Panel (Marshalling Etc),H021,Hinge
+Panel (Marshalling Etc),I001,I/O Module
+Panel (Marshalling Etc),I004,ID Tag
+Panel (Marshalling Etc),J012,Junction Box
+Panel (Marshalling Etc),L039,Lamp
+Panel (Marshalling Etc),L052,Local Control
+Panel (Marshalling Etc),M023,Mount
+Panel (Marshalling Etc),Z999,No Object Found
+Panel (Marshalling Etc),P005,Panel
+Panel (Marshalling Etc),P034,PLC
+Panel (Marshalling Etc),P043,Power Supply
+Panel (Marshalling Etc),P068,Push Button
+Panel (Marshalling Etc),R022,Relay
+Panel (Marshalling Etc),S012,Seal
+Panel (Marshalling Etc),S066,Sign
+Panel (Marshalling Etc),S148,Switch
+Panel (Marshalling Etc),T018,Terminal
+Panel (Marshalling Etc),T020,Terminator
+Panel (Marshalling Etc),V053,Viewing Panel
+Panel (Marshalling Etc),Z995,Whole Unit
+Piping/Tubing/Hose,B015,Bearing
+Piping/Tubing/Hose,F021,Fitting
+Piping/Tubing/Hose,G007,Gasket
+Piping/Tubing/Hose,H029,Hose
+Piping/Tubing/Hose,L020,Liner
+Piping/Tubing/Hose,M023,Mount
+Piping/Tubing/Hose,Z999,No Object Found
+Piping/Tubing/Hose,P018,Piping
+Piping/Tubing/Hose,R046,Roller
+Piping/Tubing/Hose,R087,Rotary Union
+Piping/Tubing/Hose,V042,Vent
+Piping/Tubing/Hose,Z995,Whole Unit
+Power Pack Hydraulic,Z999,No Object Found
+Power Pack Hydraulic,Z995,Whole Unit
+Pulley,B015,Bearing
+Pulley,B029,Belt
+Pulley,B051,Bolt
+Pulley,G038,Grease Line
+Pulley,L053,Locking Nut
+Pulley,L055,Locking Ring
+Pulley,Z999,No Object Found
+Pulley,P050,Pulley
+Pulley,P087,Pulley Lagging
+Pulley,P089,Pulley Shell
+Pulley,S012,Seal
+Pulley,S044,Shaft
+Pulley,S183,Shaft Wheel
+Pulley,Z995,Whole Unit
+Pump,B015,Bearing
+Pump,B029,Belt
+Pump,D009,Diaphragm
+Pump,D066,Drive Belt
+Pump,F011,Filter
+Pump,G007,Gasket
+Pump,G027,Gland
+Pump,G048,Guard
+Pump,H029,Hose
+Pump,L038,Lubricant
+Pump,M023,Mount
+Pump,Z999,No Object Found
+Pump,P018,Piping
+Pump,P090,Pulley Tabs
+Pump,P052,Pump
+Pump,P091,Pump Casing
+Pump,P092,Pump Internals
+Pump,S004,Screen
+Pump,S012,Seal
+Pump,S044,Shaft
+Pump,S204,Static Earth
+Pump,S208,Stroke Adjusters
+Pump,V001,Valve
+Pump,Z995,Whole Unit
+Radiator Engine,C067,Connector
+Radiator Engine,C081,Coolant
+Radiator Engine,C087,Core
+Radiator Engine,F061,Fastener
+Radiator Engine,F038,Frame
+Radiator Engine,G007,Gasket
+Radiator Engine,G048,Guard
+Radiator Engine,M023,Mount
+Radiator Engine,P029,Plate
+Radiator Engine,R003,Radiator
+Radiator Engine,R022,Relay
+Radiator Engine,S012,Seal
+Radiator Engine,S209,Structure
+Radiator Engine,T070,Tube
+Relay (Electrical),C067,Connector
+Relay (Electrical),Z999,No Object Found
+Relay (Electrical),R022,Relay
+Relay (Electrical),Z995,Whole Unit
+Rock Breaker,B015,Bearing
+Rock Breaker,C130,Carriage Assembly
+Rock Breaker,H029,Hose
+Rock Breaker,M030,Machine
+Rock Breaker,R083,Rockbreaker
+Sampler,B015,Bearing
+Sampler,C130,Carriage Assembly
+Sampler,C165,Cutter
+Sampler,K012,Keyboard/Mouse
+Sampler,L020,Liner
+Sampler,Z999,No Object Found
+Sampler,O014,Operator Station
+Sampler,P050,Pulley
+Sampler,P088,Pulley Sheaves
+Sampler,R046,Roller
+Sampler,S175,Sample Station
+Sampler,S003,Scraper
+Sampler,T096,Thrust Rail
+Sampler,V048,Vee Belt
+Sampler,Z995,Whole Unit
+Scraper (Conveyor),B051,Bolt
+Scraper (Conveyor),M023,Mount
+Scraper (Conveyor),Z999,No Object Found
+Scraper (Conveyor),S003,Scraper
+Scraper (Conveyor),S176,Scraper Frame
+Scraper (Conveyor),V049,Vee Plough Blade
+Scraper (Conveyor),Z995,Whole Unit
+Screen,A047,Aperture Panels
+Screen,B085,Beam
+Screen,B051,Bolt
+Screen,C139,Clamp Bars
+Screen,C145,Cleats
+Screen,C163,Cross Members
+Screen,D001,Damper
+Screen,D061,Deck Rail
+Screen,E051,Exciter Beam
+Screen,F061,Fastener
+Screen,F038,Frame
+Screen,G048,Guard
+Screen,H042,Hanging Skirts
+Screen,I028,Impact Panels
+Screen,L020,Liner
+Screen,Z999,No Object Found
+Screen,P001,Pad
+Screen,P005,Panel
+Screen,P013,Pin
+Screen,R068,Rail Cleat
+Screen,S177,Screen Deck
+Screen,S178,Screen Panels
+Screen,S064,Side Plate
+Screen,S105,Spring
+Screen,S209,Structure
+Screen,Z995,Whole Unit
+Scrubber,Z999,No Object Found
+Scrubber,Z995,Whole Unit
+Spray Cannon Water,Z999,No Object Found
+Spray Cannon Water,Z995,Whole Unit
+Starter Motor,B067,Buffer
+Starter Motor,F061,Fastener
+Starter Motor,S166,Starter Motor
+Starter Motor,S148,Switch
+Structure/Platform/Stand,A003,Actuator
+Structure/Platform/Stand,A048,Area
+Structure/Platform/Stand,B015,Bearing
+Structure/Platform/Stand,B045,Body
+Structure/Platform/Stand,B051,Bolt
+Structure/Platform/Stand,B067,Buffer
+Structure/Platform/Stand,B095,Building
+Structure/Platform/Stand,C002,Cable
+Structure/Platform/Stand,C152,Concrete
+Structure/Platform/Stand,C067,Connector
+Structure/Platform/Stand,C157,Counterweight Boom & Mast
+Structure/Platform/Stand,C093,Coupling
+Structure/Platform/Stand,C163,Cross Members
+Structure/Platform/Stand,D009,Diaphragm
+Structure/Platform/Stand,D069,Drive Wheels
+Structure/Platform/Stand,D042,Drum
+Structure/Platform/Stand,E038,Earth Bonding
+Structure/Platform/Stand,E043,Electrical Device
+Structure/Platform/Stand,F061,Fastener
+Structure/Platform/Stand,F021,Fitting
+Structure/Platform/Stand,F070,Footings
+Structure/Platform/Stand,F071,FORJ
+Structure/Platform/Stand,F038,Frame
+Structure/Platform/Stand,G048,Guard
+Structure/Platform/Stand,G049,Guide
+Structure/Platform/Stand,I034,Insulation
+Structure/Platform/Stand,L045,Lifting Attachment
+Structure/Platform/Stand,L059,Luff Pins
+Structure/Platform/Stand,M038,Measuring Head
+Structure/Platform/Stand,M041,Measuring Wheel
+Structure/Platform/Stand,M023,Mount
+Structure/Platform/Stand,Z999,No Object Found
+Structure/Platform/Stand,N013,Nylon Pads
+Structure/Platform/Stand,P003,Paint
+Structure/Platform/Stand,P013,Pin
+Structure/Platform/Stand,P076,Pivot Points
+Structure/Platform/Stand,P033,Platform
+Structure/Platform/Stand,R080,Regulations
+Structure/Platform/Stand,R081,Retaining Clamps
+Structure/Platform/Stand,R046,Roller
+Structure/Platform/Stand,S012,Seal
+Structure/Platform/Stand,S179,Seal Plate
+Structure/Platform/Stand,S185,Shock Absorber
+Structure/Platform/Stand,S066,Sign
+Structure/Platform/Stand,S193,Slip Ring
+Structure/Platform/Stand,S105,Spring
+Structure/Platform/Stand,S207,Storm Lock
+Structure/Platform/Stand,S209,Structure
+Structure/Platform/Stand,T069,Trunnion
+Structure/Platform/Stand,W048,Walkways
+Structure/Platform/Stand,W019,Weld
+Structure/Platform/Stand,Z995,Whole Unit
+Structure/Platform/Stand,W061,Wire Rope
+Switchboard,B097,Bus Insulation
+Switchboard,C043,Circuit Breaker
+Switchboard,C146,Clusters
+Switchboard,E038,Earth Bonding
+Switchboard,G027,Gland
+Switchboard,I034,Insulation
+Switchboard,M035,MCC
+Switchboard,Z999,No Object Found
+Switchboard,S214,Switchboard
+Switchboard,T020,Terminator
+Switchboard,Z995,Whole Unit
+System Dust Surpression,A048,Area
+System Dust Surpression,C097,Cover
+System Dust Surpression,D044,Duct
+System Dust Surpression,E038,Earth Bonding
+System Dust Surpression,F061,Fastener
+System Dust Surpression,F011,Filter
+System Dust Surpression,F064,Filter Bag
+System Dust Surpression,Z999,No Object Found
+System Dust Surpression,N010,Nozzle
+System Dust Surpression,P018,Piping
+System Dust Surpression,S012,Seal
+System Dust Surpression,S201,Spray Bar Assembly
+System Dust Surpression,S209,Structure
+System Dust Surpression,T070,Tube
+System Dust Surpression,V001,Valve
+System Dust Surpression,Z995,Whole Unit
+Thermostats,C081,Coolant
+Thermostats,E038,Earth Bonding
+Thickener/Tank,B063,Breather
+Thickener/Tank,C081,Coolant
+Thickener/Tank,E038,Earth Bonding
+Thickener/Tank,F011,Filter
+Thickener/Tank,F026,Float
+Thickener/Tank,F070,Footings
+Thickener/Tank,F074,Fuel
+Thickener/Tank,F076,Fuel Line
+Thickener/Tank,G036,Grease
+Thickener/Tank,H029,Hose
+Thickener/Tank,H049,Hose Insulation
+Thickener/Tank,H050,HPU
+Thickener/Tank,L018,Line
+Thickener/Tank,L020,Liner
+Thickener/Tank,M034,Material
+Thickener/Tank,M044,Moisture Trap
+Thickener/Tank,M023,Mount
+Thickener/Tank,Z999,No Object Found
+Thickener/Tank,O001,Oil
+Thickener/Tank,P071,Pad Area
+Thickener/Tank,P091,Pump Casing
+Thickener/Tank,P092,Pump Internals
+Thickener/Tank,R003,Radiator
+Thickener/Tank,S054,Shell
+Thickener/Tank,S087,Solenoid
+Thickener/Tank,S103,Spool
+Thickener/Tank,S209,Structure
+Thickener/Tank,T008,Tank
+Thickener/Tank,V001,Valve
+Thickener/Tank,V042,Vent
+Thickener/Tank,Z995,Whole Unit
+Tools Other,B096,Bund
+Tools Other,B074,Bushing
+Tools Other,C002,Cable
+Transformer,B096,Bund
+Transformer,B074,Bushing
+Transformer,C002,Cable
+Transformer,C150,Compound
+Transformer,C067,Connector
+Transformer,F018,Fins
+Transformer,I004,ID Tag
+Transformer,I034,Insulation
+Transformer,M023,Mount
+Transformer,Z999,No Object Found
+Transformer,O001,Oil
+Transformer,P085,Protection Relay
+Transformer,R022,Relay
+Transformer,S012,Seal
+Transformer,S066,Sign
+Transformer,S209,Structure
+Transformer,T092,Tap Changer
+Transformer,T094,Terminal Box
+Transformer,T020,Terminator
+Transformer,T105,Transformer
+Transformer,Z995,Whole Unit
+Transformer,W057,Winding
+Trolley,B070,Bumper
+Trolley,G056,Girder
+Trolley,Z999,No Object Found
+Trolley,P050,Pulley
+Trolley,R009,Rail
+Trolley,T108,Trolley Wheel
+Trolley,Z995,Whole Unit
+Turbocharger,B010,Battery
+Turbocharger,C002,Cable
+Turbocharger,C067,Connector
+Turbocharger,C070,Contactor
+Turbocharger,T109,Turbocharger
+UPS,B010,Battery
+UPS,C002,Cable
+UPS,C067,Connector
+UPS,C070,Contactor
+UPS,F001,Fan
+UPS,Z999,No Object Found
+UPS,U004,UPS
+UPS,Z995,Whole Unit
+Valve,A003,Actuator
+Valve,B015,Bearing
+Valve,B037,Blade
+Valve,B051,Bolt
+Valve,C067,Connector
+Valve,D009,Diaphragm
+Valve,D071,Dust Collector
+Valve,G007,Gasket
+Valve,I004,ID Tag
+Valve,L018,Line
+Valve,L050,Linkages
+Valve,Z999,No Object Found
+Valve,P078,Positioner
+Valve,R055,Rotor
+Valve,S012,Seal
+Valve,S066,Sign
+Valve,S087,Solenoid
+Valve,S105,Spring
+Valve,S125,Stopper
+Valve,T070,Tube
+Valve,V001,Valve
+Valve,V047,Valve Seat
+Valve,Z995,Whole Unit
+Valve,W033,Wiring
+Variable Speed Drive,C002,Cable
+Variable Speed Drive,C067,Connector
+Variable Speed Drive,C072,Control
+Variable Speed Drive,C160,Covers
+Variable Speed Drive,F001,Fan
+Variable Speed Drive,F011,Filter
+Variable Speed Drive,M019,Motor
+Variable Speed Drive,M023,Mount
+Variable Speed Drive,Z999,No Object Found
+Variable Speed Drive,S085,Software
+Variable Speed Drive,T106,Transistor
+Variable Speed Drive,V054,VSD
+Variable Speed Drive,Z995,Whole Unit
+Weightometer,B015,Bearing
+Weightometer,C149,Component
+Weightometer,F038,Frame
+Weightometer,G048,Guard
+Weightometer,I033,Instrument
+Weightometer,L051,Load Cell
+Weightometer,Z999,No Object Found
+Weightometer,S066,Sign
+Weightometer,S209,Structure
+Weightometer,W049,Weightometer
+Weightometer,Z995,Whole Unit
+Winch Assembly,Z999,No Object Found
+Winch Assembly,Z995,Whole Unit
+Winch Rope,Z999,No Object Found
+Winch Rope,Z995,Whole Unit

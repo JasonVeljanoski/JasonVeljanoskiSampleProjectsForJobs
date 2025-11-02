@@ -1,0 +1,162 @@
+version: "3.6"
+
+services:
+  dockerproxy:
+    image: tecnativa/docker-socket-proxy
+    container_name: ${PROJECT_SUFFIX}_proxy
+    restart: always
+    environment:
+      CONTAINERS: 1
+    networks:
+      - traefik-docker
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    logging:
+      options:
+        max-size: 100M
+
+  traefik:
+    image: traefik:2.5
+    container_name: ${PROJECT_SUFFIX}_traefik
+    restart: always
+    depends_on:
+      - dockerproxy
+    networks:
+      - default
+      - traefik-docker
+    command:
+      # - "--log.level=DEBUG"
+      - "--providers.docker=true"
+      - "--providers.docker.endpoint=tcp://dockerproxy:2375"
+      - "--providers.docker.exposedbydefault=false"
+      - "--providers.docker.network=default"
+      - "--providers.file.directory=/configuration/"
+      - "--providers.file.watch=true"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.websecure.address=:443"
+      - "--entrypoints.postgres.address=:5432"
+      - "--api=true"
+    volumes:
+      - ${CERT_CONFIG}:/configuration
+    ports:
+      - 80:80
+      - 443:443
+      - 5432:5432
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.http-catchall.rule=hostregexp(`{host:.+}`)
+      - traefik.http.routers.http-catchall.entrypoints=web
+      - traefik.http.routers.http-catchall.middlewares=redirect-to-https@docker
+      - traefik.http.middlewares.redirect-to-https.redirectscheme.scheme=https
+      - traefik.http.routers.traefik.entrypoints=web
+      - traefik.http.routers.traefik.entrypoints=websecure
+      - traefik.http.routers.traefik.service=api@internal
+      - traefik.http.routers.traefik.tls=true
+      - traefik.http.routers.traefik.rule=Host(`${SERVER_NAME}`) && (PathPrefix(`/traefik/`) || Headers(`Referer`, `https://${SERVER_NAME}/traefik/dashboard/`))
+      - traefik.http.routers.traefik.middlewares=traefikprefix
+      - traefik.http.middlewares.traefikprefix.stripprefix.prefixes=/traefik
+      - traefik.http.middlewares.auth.basicauth.users=admin:$$apr1$$V0NQuu9y$$McH8IZaPaQ8Xns3vTBrt00
+
+    logging:
+      options:
+        max-size: 100M
+
+  db:
+    image: postgres:13
+    container_name: ${PROJECT_SUFFIX}_db
+    networks:
+      - default
+    restart: always
+    labels:
+      - traefik.enable=true
+      - traefik.tcp.routers.db.entrypoints=postgres
+      - traefik.tcp.routers.db.rule=HostSNI(`*`)
+    environment:
+      - PGDATA=/var/lib/postgresql/data
+    env_file:
+      - .env
+    volumes:
+      - pgvol:/var/lib/postgresql/data
+    logging:
+      options:
+        max-size: 100M
+
+  redis:
+    image: redis
+    container_name: ${PROJECT_SUFFIX}_redis
+    restart: always
+    volumes:
+      - redisdata:/data
+    logging:
+      options:
+        max-size: 100M
+
+  backend:
+    container_name: ${PROJECT_SUFFIX}_backend
+    networks:
+      - default
+    restart: always
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.backend.entrypoints=web
+      - traefik.http.routers.backend.entrypoints=websecure
+      - traefik.http.routers.backend.tls=true
+      - traefik.http.routers.backend.rule=Host(`${SERVER_NAME}`) && PathPrefix(`/api`)
+      - traefik.http.routers.backend.middlewares=example
+      - traefik.http.middlewares.example.stripprefix.prefixes=/api
+      # Swagger Stuff
+      - traefik.http.routers.swagger.entrypoints=web
+      - traefik.http.routers.swagger.entrypoints=websecure
+      - traefik.http.routers.swagger.tls=true
+      - traefik.http.routers.swagger.rule=Host(`${SERVER_NAME}`) && PathPrefix(`/api/docs`)
+      - traefik.http.routers.swagger.middlewares=example
+      # - traefik.http.middlewares.swagger2.replacepathregex.regex=^/swagger/(.*)
+      # - traefik.http.middlewares.swagger2.replacepathregex.replacement=/docs/$$1
+
+    depends_on:
+      - db
+    env_file:
+      - .env
+    build:
+      context: ./backend
+      dockerfile: backend.dockerfile
+    logging:
+      options:
+        max-size: 100M
+    volumes:
+      - ../uploads:/uploads
+
+  frontend:
+    container_name: ${PROJECT_SUFFIX}_frontend
+    networks:
+      - default
+    restart: always
+    environment:
+      - API_URL=https://${SERVER_NAME}/api
+      - REDIRECT_URL=https://${SERVER_NAME}/auth
+    env_file:
+      - .env
+    build:
+      context: ./frontend
+      dockerfile: frontend.dockerfile
+      args:
+        API_URL: https://${SERVER_NAME}/api
+        REDIRECT_URL: https://${SERVER_NAME}/auth
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.frontend.entrypoints=web
+      - traefik.http.routers.frontend.entrypoints=websecure
+      - traefik.http.routers.frontend.tls=true
+      - traefik.http.routers.frontend.rule=Host(`${SERVER_NAME}`)
+    logging:
+      options:
+        max-size: 100M
+    command: npm start
+
+networks:
+  traefik-docker: null
+  default: null
+
+volumes:
+  pgvol: null
+  redisdata: null

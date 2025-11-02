@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "lib": ["ESNext", "ESNext.AsyncIterable", "DOM"],
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "noEmit": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"]
+    },
+    // "noImplicitReturns": false,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "types": ["@nuxt/types", "@pinia/nuxt", "@nuxtjs/axios", "@types/node", "vuetify"],
+    "typeRoots": ["./node_modules/@types", "./node_modules/vuetify/types"]
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+}

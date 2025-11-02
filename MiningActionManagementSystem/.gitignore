@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+.venv
+.env.local
+*.sql
+venv
+backend/app/.DS_Store
+.DS_Store
+backend/.DS_Store
+backend/attachments
+backend/app/attachments/general/

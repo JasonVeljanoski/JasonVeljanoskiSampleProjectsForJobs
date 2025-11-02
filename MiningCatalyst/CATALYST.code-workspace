@@ -1,0 +1,62 @@
+{
+  "folders": [
+    {
+      "path": "./backend"
+    },
+    {
+      "path": "./frontend"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "backend": true,
+      "frontend": true
+    },
+
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
+
+    "files.autoSave": "onFocusChange",
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+
+    // Backend Formatter/Linter
+    "python.analysis.completeFunctionParens": true,
+    "python.formatting.blackArgs": ["--line-length", "100"],
+    "python.formatting.provider": "black",
+
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=100"],
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+
+    "[python]": {
+      "editor.tabSize": 4,
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+      }
+    },
+    "isort.args": ["--profile", "black", "--skip", "__init__.py", "--line-width", "100"],
+
+    // Frontend Formatter/Linter
+    "prettier.printWidth": 120,
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+}
