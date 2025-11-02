@@ -1,0 +1,57 @@
+image: docker:latest
+services:
+  - docker:dind
+
+stages:
+  - build
+  - deploy
+
+.build-static-ssl:
+  stage: build
+  cache: []
+  script: sudo docker-compose -f docker-compose.yml -f docker-compose.prod.yml build --no-cache
+
+.deploy:
+  stage: deploy
+  cache: []
+  after_script:
+    - sudo docker image prune -f
+  environment:
+    name: $CI_COMMIT_REF_NAME
+
+.deploy-static-ssl:
+  extends:
+    - .deploy
+  script: sudo docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+
+build-uat:
+  extends:
+    - .build-static-ssl
+  only:
+    - uat
+  tags:
+    - uat
+
+deploy-uat:
+  extends:
+    - .deploy-static-ssl
+  only:
+    - uat
+  tags:
+    - uat
+
+build-prod:
+  extends:
+    - .build-static-ssl
+  only:
+    - main
+  tags:
+    - prod
+
+deploy-prod:
+  extends:
+    - .deploy-static-ssl
+  only:
+    - main
+  tags:
+    - prod

@@ -1,0 +1,30 @@
+version: "3.6"
+
+services:
+  dockerproxy:
+    restart: "no"
+
+  traefik:
+    restart: "no"
+
+  db:
+    restart: "no"
+    environment:
+      - POSTGRES_PASSWORD=password
+
+  backend:
+    restart: "no"
+    environment:
+      - POSTGRES_PASSWORD=password
+    env_file:
+      - .env.local
+    volumes:
+      - ./backend:/app
+    command: /start-reload.sh
+    # command: bash -c "while true; do sleep 1; done" # Infinite loop to keep container live doing nothing
+
+  frontend:
+    restart: "no"
+    volumes:
+      - ./frontend:/usr/src/app
+    command: bash -c "npm install && npm run dev"

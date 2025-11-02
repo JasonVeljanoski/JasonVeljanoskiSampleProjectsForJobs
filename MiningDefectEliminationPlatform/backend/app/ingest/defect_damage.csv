@@ -1,0 +1,1449 @@
+﻿object,damage_code,damage
+Accumulator,D017,Bent
+Accumulator,D002,"Broken (Cracked,Leaking,Holed)"
+Accumulator,D022,Coating/Lining failure
+Accumulator,D024,Corroded
+Accumulator,D025,Cracked
+Accumulator,D005,"Deformed (Bent,Twisted)"
+Accumulator,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Accumulator,D007,End of Life
+Accumulator,D028,Failed
+Accumulator,D015,Hollowed
+Accumulator,D037,Leaking
+Accumulator,D008,Loose (Detached)
+Accumulator,D250,Loss of Pre-Charge
+Accumulator,D039,Loss of Thickness
+Accumulator,D998,No Fault Found
+Accumulator,D999,Other Reason (Explain)
+Accumulator,D052,Product leakage
+Accumulator,D270,Rupture
+Accumulator,D063,Worn
+Agitators and Mixer,D002,"Broken (Cracked,Leaking,Holed)"
+Agitators and Mixer,D024,Corroded
+Agitators and Mixer,D025,Cracked
+Agitators and Mixer,D005,"Deformed (Bent,Twisted)"
+Agitators and Mixer,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Agitators and Mixer,D007,End of Life
+Agitators and Mixer,D034,Frozen/Hot
+Agitators and Mixer,D008,Loose (Detached)
+Agitators and Mixer,D998,No Fault Found
+Agitators and Mixer,D070,No Power
+Agitators and Mixer,D999,Other Reason (Explain)
+Agitators and Mixer,D012,"Siezed (Stuck,Frozen,Jammed)"
+Agitators and Mixer,D063,Worn
+Air Compressor,D001,Blockage
+Air Compressor,D002,"Broken (Cracked,Leaking,Holed)"
+Air Compressor,D003,"Burnt (Fused,Melted)"
+Air Compressor,D004,Contaminated
+Air Compressor,D024,Corroded
+Air Compressor,D025,Cracked
+Air Compressor,D221,Damaged
+Air Compressor,D005,"Deformed (Bent,Twisted)"
+Air Compressor,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Air Compressor,D007,End of Life
+Air Compressor,D028,Failed
+Air Compressor,D031,Fault/Short Circuit
+Air Compressor,D034,Frozen/Hot
+Air Compressor,D241,Incorrect Position
+Air Compressor,D243,Inefficient
+Air Compressor,D037,Leaking
+Air Compressor,D008,Loose (Detached)
+Air Compressor,D248,Loss
+Air Compressor,D041,Lube/Service leakage
+Air Compressor,D998,No Fault Found
+Air Compressor,D070,No Power
+Air Compressor,D999,Other Reason (Explain)
+Air Compressor,D051,PLC Fault
+Air Compressor,D158,Seized/Jammed
+Air Compressor,D012,"Siezed (Stuck,Frozen,Jammed)"
+Air Compressor,D063,Worn
+Air Conditioner,D001,Blockage
+Air Conditioner,D019,Broken
+Air Conditioner,D003,"Burnt (Fused,Melted)"
+Air Conditioner,D024,Corroded
+Air Conditioner,D025,Cracked
+Air Conditioner,D005,"Deformed (Bent,Twisted)"
+Air Conditioner,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Air Conditioner,D026,Down to Earth
+Air Conditioner,D007,End of Life
+Air Conditioner,D028,Failed
+Air Conditioner,D031,Fault/Short Circuit
+Air Conditioner,D243,Inefficient
+Air Conditioner,D037,Leaking
+Air Conditioner,D008,Loose (Detached)
+Air Conditioner,D067,No A/C
+Air Conditioner,D044,No Drive
+Air Conditioner,D998,No Fault Found
+Air Conditioner,D045,No Flow
+Air Conditioner,D999,Other Reason (Explain)
+Air Conditioner,D158,Seized/Jammed
+Air Conditioner,D012,"Siezed (Stuck,Frozen,Jammed)"
+Air Conditioner,D060,Vibration/Noisy
+Air Conditioner,D063,Worn
+Air Receiver/Vessel,D017,Bent
+Air Receiver/Vessel,D001,Blockage
+Air Receiver/Vessel,D002,"Broken (Cracked,Leaking,Holed)"
+Air Receiver/Vessel,D022,Coating/Lining failure
+Air Receiver/Vessel,D220,Condensation
+Air Receiver/Vessel,D024,Corroded
+Air Receiver/Vessel,D025,Cracked
+Air Receiver/Vessel,D005,"Deformed (Bent,Twisted)"
+Air Receiver/Vessel,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Air Receiver/Vessel,D007,End of Life
+Air Receiver/Vessel,D015,Hollowed
+Air Receiver/Vessel,D037,Leaking
+Air Receiver/Vessel,D008,Loose (Detached)
+Air Receiver/Vessel,D039,Loss of Thickness
+Air Receiver/Vessel,D998,No Fault Found
+Air Receiver/Vessel,D999,Other Reason (Explain)
+Air Receiver/Vessel,D052,Product leakage
+Air Receiver/Vessel,D063,Worn
+Alternator,D001,Blockage
+Alternator,D002,"Broken (Cracked,Leaking,Holed)"
+Alternator,D003,"Burnt (Fused,Melted)"
+Alternator,D107,Charge Fault
+Alternator,D178,Collapsed
+Alternator,D004,Contaminated
+Alternator,D024,Corroded
+Alternator,D025,Cracked
+Alternator,D221,Damaged
+Alternator,D005,"Deformed (Bent,Twisted)"
+Alternator,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Alternator,D007,End of Life
+Alternator,D028,Failed
+Alternator,D031,Fault/Short Circuit
+Alternator,D034,Frozen/Hot
+Alternator,D244,Inoperable
+Alternator,D037,Leaking
+Alternator,D008,Loose (Detached)
+Alternator,D998,No Fault Found
+Alternator,D070,No Power
+Alternator,D999,Other Reason (Explain)
+Alternator,D048,Other Reason [Explain]
+Alternator,D049,Overheating
+Alternator,D051,PLC Fault
+Alternator,D012,"Siezed (Stuck,Frozen,Jammed)"
+Alternator,D280,Stretches
+Alternator,D063,Worn
+Battery,D024,Corroded
+Battery,D025,Cracked
+Battery,D221,Damaged
+Battery,D028,Failed
+Battery,D008,Loose (Detached)
+Battery,D063,Worn
+Bearing Slew,D001,Blockage
+Bearing Slew,D133,Fracture
+Bearing Slew,D037,Leaking
+Bearing Slew,D008,Loose (Detached)
+Bearing Slew,D009,Misalignment
+Bearing Slew,D158,Seized/Jammed
+Bearing Slew,D063,Worn
+Belt Weigher,D017,Bent
+Belt Weigher,D019,Broken
+Belt Weigher,D003,"Burnt (Fused,Melted)"
+Belt Weigher,D024,Corroded
+Belt Weigher,D025,Cracked
+Belt Weigher,D005,"Deformed (Bent,Twisted)"
+Belt Weigher,D007,End of Life
+Belt Weigher,D028,Failed
+Belt Weigher,D031,Fault/Short Circuit
+Belt Weigher,D998,No Fault Found
+Belt Weigher,D070,No Power
+Belt Weigher,D047,Not Controlling
+Belt Weigher,D999,Other Reason (Explain)
+Belt Weigher,D012,"Siezed (Stuck,Frozen,Jammed)"
+Bin,D001,Blockage
+Bin,D002,"Broken (Cracked,Leaking,Holed)"
+Bin,D003,"Burnt (Fused,Melted)"
+Bin,D105,Calibration Fault
+Bin,D024,Corroded
+Bin,D025,Cracked
+Bin,D221,Damaged
+Bin,D005,"Deformed (Bent,Twisted)"
+Bin,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Bin,D007,End of Life
+Bin,D244,Inoperable
+Bin,D008,Loose (Detached)
+Bin,D998,No Fault Found
+Bin,D999,Other Reason (Explain)
+Bin,D012,"Siezed (Stuck,Frozen,Jammed)"
+Bin,D063,Worn
+Blower,D017,Bent
+Blower,D001,Blockage
+Blower,D002,"Broken (Cracked,Leaking,Holed)"
+Blower,D024,Corroded
+Blower,D025,Cracked
+Blower,D005,"Deformed (Bent,Twisted)"
+Blower,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Blower,D007,End of Life
+Blower,D028,Failed
+Blower,D031,Fault/Short Circuit
+Blower,D034,Frozen/Hot
+Blower,D008,Loose (Detached)
+Blower,D998,No Fault Found
+Blower,D070,No Power
+Blower,D047,Not Controlling
+Blower,D999,Other Reason (Explain)
+Blower,D158,Seized/Jammed
+Blower,D012,"Siezed (Stuck,Frozen,Jammed)"
+Blower,D281,Unbalanced
+Blower,D063,Worn
+Brakes,D019,Broken
+Brakes,D003,"Burnt (Fused,Melted)"
+Brakes,D025,Cracked
+Brakes,D005,"Deformed (Bent,Twisted)"
+Brakes,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Brakes,D007,End of Life
+Brakes,D028,Failed
+Brakes,D242,Ineffective
+Brakes,D008,Loose (Detached)
+Brakes,D039,Loss of Thickness
+Brakes,D998,No Fault Found
+Brakes,D999,Other Reason (Explain)
+Brakes,D167,Short Circuit
+Brakes,D012,"Siezed (Stuck,Frozen,Jammed)"
+Brakes,D013,Trip (Action of Safety Device)
+Brakes,D063,Worn
+Building,D019,Broken
+Building,D024,Corroded
+Building,D221,Damaged
+Building,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Building,D028,Failed
+Building,D031,Fault/Short Circuit
+Building,D064,Fire
+Building,D032,Flooded
+Building,D037,Leaking
+Building,D067,No A/C
+Building,D998,No Fault Found
+Building,D069,No Lights
+Building,D070,No Power
+Building,D999,Other Reason (Explain)
+Building,D158,Seized/Jammed
+Building,D073,Smell Smoke
+Building,D058,Structural Damage
+Cable,D211,Arc Flash
+Cable,D002,"Broken (Cracked,Leaking,Holed)"
+Cable,D024,Corroded
+Cable,D025,Cracked
+Cable,D221,Damaged
+Cable,D005,"Deformed (Bent,Twisted)"
+Cable,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Cable,D007,End of Life
+Cable,D028,Failed
+Cable,D034,Frozen/Hot
+Cable,D008,Loose (Detached)
+Cable,D998,No Fault Found
+Cable,D070,No Power
+Cable,D999,Other Reason (Explain)
+Cable,D012,"Siezed (Stuck,Frozen,Jammed)"
+Cable,D063,Worn
+Chute,D001,Blockage
+Chute,D019,Broken
+Chute,D003,"Burnt (Fused,Melted)"
+Chute,D022,Coating/Lining failure
+Chute,D024,Corroded
+Chute,D025,Cracked
+Chute,D221,Damaged
+Chute,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Chute,D007,End of Life
+Chute,D028,Failed
+Chute,D037,Leaking
+Chute,D008,Loose (Detached)
+Chute,D998,No Fault Found
+Chute,D999,Other Reason (Explain)
+Chute,D158,Seized/Jammed
+Chute,D012,"Siezed (Stuck,Frozen,Jammed)"
+Chute,D063,Worn
+Circuit Breaker,D002,"Broken (Cracked,Leaking,Holed)"
+Circuit Breaker,D003,"Burnt (Fused,Melted)"
+Circuit Breaker,D219,Cannot Engage
+Circuit Breaker,D024,Corroded
+Circuit Breaker,D025,Cracked
+Circuit Breaker,D222,Defective
+Circuit Breaker,D005,"Deformed (Bent,Twisted)"
+Circuit Breaker,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Circuit Breaker,D007,End of Life
+Circuit Breaker,D028,Failed
+Circuit Breaker,D031,Fault/Short Circuit
+Circuit Breaker,D034,Frozen/Hot
+Circuit Breaker,D244,Inoperable
+Circuit Breaker,D008,Loose (Detached)
+Circuit Breaker,D998,No Fault Found
+Circuit Breaker,D070,No Power
+Circuit Breaker,D999,Other Reason (Explain)
+Circuit Breaker,D048,Other Reason [Explain]
+Circuit Breaker,D051,PLC Fault
+Circuit Breaker,D012,"Siezed (Stuck,Frozen,Jammed)"
+Circuit Breaker,D063,Worn
+Converyor,D017,Bent
+Converyor,D001,Blockage
+Converyor,D019,Broken
+Converyor,D003,"Burnt (Fused,Melted)"
+Converyor,D022,Coating/Lining failure
+Converyor,D004,Contaminated
+Converyor,D024,Corroded
+Converyor,D025,Cracked
+Converyor,D221,Damaged
+Converyor,D005,"Deformed (Bent,Twisted)"
+Converyor,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Converyor,D227,Dirty
+Converyor,D007,End of Life
+Converyor,D028,Failed
+Converyor,D031,Fault/Short Circuit
+Converyor,D035,High Temp
+Converyor,D247,Jammed
+Converyor,D008,Loose (Detached)
+Converyor,D040,Low Level
+Converyor,D044,No Drive
+Converyor,D998,No Fault Found
+Converyor,D071,Noisy
+Converyor,D999,Other Reason (Explain)
+Converyor,D051,PLC Fault
+Converyor,D052,Product leakage
+Converyor,D158,Seized/Jammed
+Converyor,D012,"Siezed (Stuck,Frozen,Jammed)"
+Converyor,D056,Snapped Shaft
+Converyor,D280,Stretches
+Converyor,D058,Structural Damage
+Converyor,D063,Worn
+Converyor,D284,Wrong Orientation
+Conveyor Belt,D001,Blockage
+Conveyor Belt,D019,Broken
+Conveyor Belt,D002,"Broken (Cracked,Leaking,Holed)"
+Conveyor Belt,D003,"Burnt (Fused,Melted)"
+Conveyor Belt,D022,Coating/Lining failure
+Conveyor Belt,D024,Corroded
+Conveyor Belt,D221,Damaged
+Conveyor Belt,D005,"Deformed (Bent,Twisted)"
+Conveyor Belt,D223,Delaminates
+Conveyor Belt,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Conveyor Belt,D007,End of Life
+Conveyor Belt,D028,Failed
+Conveyor Belt,D033,Frayed
+Conveyor Belt,D015,Hollowed
+Conveyor Belt,D008,Loose (Detached)
+Conveyor Belt,D998,No Fault Found
+Conveyor Belt,D999,Other Reason (Explain)
+Conveyor Belt,D158,Seized/Jammed
+Conveyor Belt,D272,Slips
+Conveyor Belt,D063,Worn
+Cooling System,D001,Blockage
+Cooling System,D025,Cracked
+Cooling System,D221,Damaged
+Cooling System,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Cooling System,D242,Ineffective
+Cooling System,D243,Inefficient
+Coupling,D017,Bent
+Coupling,D002,"Broken (Cracked,Leaking,Holed)"
+Coupling,D003,"Burnt (Fused,Melted)"
+Coupling,D022,Coating/Lining failure
+Coupling,D024,Corroded
+Coupling,D025,Cracked
+Coupling,D221,Damaged
+Coupling,D005,"Deformed (Bent,Twisted)"
+Coupling,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Coupling,D028,Failed
+Coupling,D015,Hollowed
+Coupling,D008,Loose (Detached)
+Coupling,D039,Loss of Thickness
+Coupling,D042,Missing
+Coupling,D998,No Fault Found
+Coupling,D999,Other Reason (Explain)
+Coupling,D263,Out of Specification
+Coupling,D158,Seized/Jammed
+Coupling,D271,Setting
+Coupling,D058,Structural Damage
+Coupling,D063,Worn
+Crane-Hoist,D017,Bent
+Crane-Hoist,D019,Broken
+Crane-Hoist,D003,"Burnt (Fused,Melted)"
+Crane-Hoist,D022,Coating/Lining failure
+Crane-Hoist,D024,Corroded
+Crane-Hoist,D025,Cracked
+Crane-Hoist,D221,Damaged
+Crane-Hoist,D005,"Deformed (Bent,Twisted)"
+Crane-Hoist,D007,End of Life
+Crane-Hoist,D028,Failed
+Crane-Hoist,D031,Fault/Short Circuit
+Crane-Hoist,D033,Frayed
+Crane-Hoist,D237,Illegible
+Crane-Hoist,D008,Loose (Detached)
+Crane-Hoist,D044,No Drive
+Crane-Hoist,D998,No Fault Found
+Crane-Hoist,D070,No Power
+Crane-Hoist,D047,Not Controlling
+Crane-Hoist,D999,Other Reason (Explain)
+Crane-Hoist,D266,Pitted
+Crane-Hoist,D158,Seized/Jammed
+Crane-Hoist,D012,"Siezed (Stuck,Frozen,Jammed)"
+Crane-Hoist,D056,Snapped Shaft
+Crane-Hoist,D279,Sticking
+Crane-Hoist,D280,Stretches
+Crane-Hoist,D063,Worn
+Crusher,D001,Blockage
+Crusher,D019,Broken
+Crusher,D003,"Burnt (Fused,Melted)"
+Crusher,D022,Coating/Lining failure
+Crusher,D004,Contaminated
+Crusher,D024,Corroded
+Crusher,D025,Cracked
+Crusher,D221,Damaged
+Crusher,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Crusher,D007,End of Life
+Crusher,D028,Failed
+Crusher,D035,High Temp
+Crusher,D037,Leaking
+Crusher,D008,Loose (Detached)
+Crusher,D998,No Fault Found
+Crusher,D071,Noisy
+Crusher,D999,Other Reason (Explain)
+Crusher,D158,Seized/Jammed
+Crusher,D012,"Siezed (Stuck,Frozen,Jammed)"
+Crusher,D058,Structural Damage
+Crusher,D063,Worn
+Cyclone,D002,"Broken (Cracked,Leaking,Holed)"
+Cyclone,D003,"Burnt (Fused,Melted)"
+Cyclone,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Cyclone,D007,End of Life
+Cyclone,D028,Failed
+Cyclone,D998,No Fault Found
+Cyclone,D999,Other Reason (Explain)
+Cyclone,D073,Smell Smoke
+Cyclone,D060,Vibration/Noisy
+Cyclone,D063,Worn
+Dewatering,D001,Blockage
+Dewatering,D018,Bore Hole Failure
+Dewatering,D002,"Broken (Cracked,Leaking,Holed)"
+Dewatering,D003,"Burnt (Fused,Melted)"
+Dewatering,D004,Contaminated
+Dewatering,D005,"Deformed (Bent,Twisted)"
+Dewatering,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Dewatering,D026,Down to Earth
+Dewatering,D007,End of Life
+Dewatering,D035,High Temp
+Dewatering,D008,Loose (Detached)
+Dewatering,D040,Low Level
+Dewatering,D043,MP204 Fault
+Dewatering,D998,No Fault Found
+Dewatering,D045,No Flow
+Dewatering,D999,Other Reason (Explain)
+Dewatering,D048,Other Reason [Add Text]
+Dewatering,D049,Overheating
+Dewatering,D051,PLC Fault
+Dewatering,D011,Preventive Maintenance (PM)
+Dewatering,D055,Shut Down
+Dewatering,D012,"Siezed (Stuck,Frozen,Jammed)"
+Dewatering,D056,Snapped Shaft
+Dewatering,D057,Soft Starter Fault
+Dewatering,D013,Trip (Action of Safety Device)
+Distribution Board,D002,"Broken (Cracked,Leaking,Holed)"
+Distribution Board,D003,"Burnt (Fused,Melted)"
+Distribution Board,D024,Corroded
+Distribution Board,D025,Cracked
+Distribution Board,D221,Damaged
+Distribution Board,D222,Defective
+Distribution Board,D005,"Deformed (Bent,Twisted)"
+Distribution Board,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Distribution Board,D007,End of Life
+Distribution Board,D028,Failed
+Distribution Board,D031,Fault/Short Circuit
+Distribution Board,D034,Frozen/Hot
+Distribution Board,D237,Illegible
+Distribution Board,D008,Loose (Detached)
+Distribution Board,D249,Loss of Power
+Distribution Board,D998,No Fault Found
+Distribution Board,D070,No Power
+Distribution Board,D999,Other Reason (Explain)
+Distribution Board,D265,Perished
+Distribution Board,D051,PLC Fault
+Distribution Board,D012,"Siezed (Stuck,Frozen,Jammed)"
+Distribution Board,D013,Trip (Action of Safety Device)
+Distribution Board,D063,Worn
+Drive Shaft,D019,Broken
+Drive Shaft,D221,Damaged
+Drive Shaft,D028,Failed
+Drive Shaft,D037,Leaking
+Drive Shaft,D008,Loose (Detached)
+Drive Shaft,D049,Overheating
+Drive Shaft,D158,Seized/Jammed
+Drive Shaft,D063,Worn
+Drive Sprocket,D001,Blockage
+Drive Sprocket,D244,Inoperable
+Drive Sprocket,D008,Loose (Detached)
+Dryer,D017,Bent
+Dryer,D001,Blockage
+Dryer,D002,"Broken (Cracked,Leaking,Holed)"
+Dryer,D004,Contaminated
+Dryer,D024,Corroded
+Dryer,D025,Cracked
+Dryer,D005,"Deformed (Bent,Twisted)"
+Dryer,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Dryer,D007,End of Life
+Dryer,D028,Failed
+Dryer,D031,Fault/Short Circuit
+Dryer,D034,Frozen/Hot
+Dryer,D242,Ineffective
+Dryer,D037,Leaking
+Dryer,D008,Loose (Detached)
+Dryer,D998,No Fault Found
+Dryer,D070,No Power
+Dryer,D047,Not Controlling
+Dryer,D999,Other Reason (Explain)
+Dryer,D012,"Siezed (Stuck,Frozen,Jammed)"
+Dryer,D063,Worn
+Electrical Cabinet,D002,"Broken (Cracked,Leaking,Holed)"
+Electrical Cabinet,D003,"Burnt (Fused,Melted)"
+Electrical Cabinet,D024,Corroded
+Electrical Cabinet,D025,Cracked
+Electrical Cabinet,D005,"Deformed (Bent,Twisted)"
+Electrical Cabinet,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Electrical Cabinet,D007,End of Life
+Electrical Cabinet,D031,Fault/Short Circuit
+Electrical Cabinet,D034,Frozen/Hot
+Electrical Cabinet,D008,Loose (Detached)
+Electrical Cabinet,D998,No Fault Found
+Electrical Cabinet,D070,No Power
+Electrical Cabinet,D999,Other Reason (Explain)
+Electrical Cabinet,D048,Other Reason [Explain]
+Electrical Cabinet,D051,PLC Fault
+Electrical Cabinet,D012,"Siezed (Stuck,Frozen,Jammed)"
+Electrical Cabinet,D063,Worn
+Electrical Controls,D211,Arc Flash
+Electrical Controls,D215,Blown
+Electrical Controls,D002,"Broken (Cracked,Leaking,Holed)"
+Electrical Controls,D003,"Burnt (Fused,Melted)"
+Electrical Controls,D105,Calibration Fault
+Electrical Controls,D024,Corroded
+Electrical Controls,D025,Cracked
+Electrical Controls,D221,Damaged
+Electrical Controls,D005,"Deformed (Bent,Twisted)"
+Electrical Controls,D224,Depleted
+Electrical Controls,D225,Derated
+Electrical Controls,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Electrical Controls,D227,Dirty
+Electrical Controls,D228,Discharged
+Electrical Controls,D007,End of Life
+Electrical Controls,D028,Failed
+Electrical Controls,D031,Fault/Short Circuit
+Electrical Controls,D034,Frozen/Hot
+Electrical Controls,D237,Illegible
+Electrical Controls,D244,Inoperable
+Electrical Controls,D037,Leaking
+Electrical Controls,D008,Loose (Detached)
+Electrical Controls,D252,Malfunction
+Electrical Controls,D998,No Fault Found
+Electrical Controls,D070,No Power
+Electrical Controls,D256,Non-Powered
+Electrical Controls,D259,Obscured
+Electrical Controls,D999,Other Reason (Explain)
+Electrical Controls,D048,Other Reason [Explain]
+Electrical Controls,D049,Overheating
+Electrical Controls,D265,Perished
+Electrical Controls,D051,PLC Fault
+Electrical Controls,D012,"Siezed (Stuck,Frozen,Jammed)"
+Electrical Controls,D063,Worn
+Electrical Harness,D028,Failed
+Electrical High Voltage,D221,Damaged
+Electrical High Voltage,D228,Discharged
+Electrical High Voltage,D007,End of Life
+Electrical High Voltage,D028,Failed
+Electrical High Voltage,D028,Failed
+Electrical High Voltage,D037,Leaking
+Electrical High Voltage,D008,Loose (Detached)
+Electrical Protection,D213,Blinded
+Electrical Protection,D002,"Broken (Cracked,Leaking,Holed)"
+Electrical Protection,D003,"Burnt (Fused,Melted)"
+Electrical Protection,D024,Corroded
+Electrical Protection,D025,Cracked
+Electrical Protection,D221,Damaged
+Electrical Protection,D222,Defective
+Electrical Protection,D005,"Deformed (Bent,Twisted)"
+Electrical Protection,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Electrical Protection,D227,Dirty
+Electrical Protection,D228,Discharged
+Electrical Protection,D007,End of Life
+Electrical Protection,D028,Failed
+Electrical Protection,D031,Fault/Short Circuit
+Electrical Protection,D034,Frozen/Hot
+Electrical Protection,D236,High Resistance
+Electrical Protection,D237,Illegible
+Electrical Protection,D238,Impaired
+Electrical Protection,D244,Inoperable
+Electrical Protection,D037,Leaking
+Electrical Protection,D008,Loose (Detached)
+Electrical Protection,D251,Low
+Electrical Protection,D252,Malfunction
+Electrical Protection,D998,No Fault Found
+Electrical Protection,D254,No Output
+Electrical Protection,D070,No Power
+Electrical Protection,D999,Other Reason (Explain)
+Electrical Protection,D048,Other Reason [Explain]
+Electrical Protection,D262,Out of Position
+Electrical Protection,D051,PLC Fault
+Electrical Protection,D158,Seized/Jammed
+Electrical Protection,D012,"Siezed (Stuck,Frozen,Jammed)"
+Electrical Protection,D013,Trip (Action of Safety Device)
+Electrical Protection,D283,Underpressure
+Electrical Protection,D063,Worn
+Electrical System,D215,Blown
+Electrical System,D221,Damaged
+Electrical System,D222,Defective
+Electrical System,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Electrical System,D227,Dirty
+Electrical System,D228,Discharged
+Electrical System,D028,Failed
+Electrical System,D237,Illegible
+Electrical System,D244,Inoperable
+Electrical System,D008,Loose (Detached)
+Electrical System,D013,Trip (Action of Safety Device)
+Electrical System,D283,Underpressure
+Electrical System,D063,Worn
+Engine Assembly,D001,Blockage
+Engine Assembly,D024,Corroded
+Engine Assembly,D221,Damaged
+Engine Assembly,D224,Depleted
+Engine Assembly,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Engine Assembly,D226,Diluted
+Engine Assembly,D120,Erosion
+Engine Assembly,D232,Excitation Loss
+Engine Assembly,D028,Failed
+Engine Assembly,D028,Failed
+Engine Assembly,D037,Leaking
+Engine Assembly,D008,Loose (Detached)
+Engine Assembly,D251,Low
+Engine Assembly,D253,Misfiring
+Engine Assembly,D158,Seized/Jammed
+Engine Assembly,D063,Worn
+Exciter,D002,"Broken (Cracked,Leaking,Holed)"
+Exciter,D004,Contaminated
+Exciter,D024,Corroded
+Exciter,D025,Cracked
+Exciter,D005,"Deformed (Bent,Twisted)"
+Exciter,D007,End of Life
+Exciter,D028,Failed
+Exciter,D035,High Temp
+Exciter,D037,Leaking
+Exciter,D008,Loose (Detached)
+Exciter,D044,No Drive
+Exciter,D998,No Fault Found
+Exciter,D071,Noisy
+Exciter,D999,Other Reason (Explain)
+Exciter,D012,"Siezed (Stuck,Frozen,Jammed)"
+Exciter,D056,Snapped Shaft
+Exciter,D060,Vibration/Noisy
+Exciter,D063,Worn
+Exhaust System,D028,Failed
+Exhaust System,D158,Seized/Jammed
+Fan Assembly,D017,Bent
+Fan Assembly,D001,Blockage
+Fan Assembly,D002,"Broken (Cracked,Leaking,Holed)"
+Fan Assembly,D024,Corroded
+Fan Assembly,D025,Cracked
+Fan Assembly,D221,Damaged
+Fan Assembly,D005,"Deformed (Bent,Twisted)"
+Fan Assembly,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Fan Assembly,D007,End of Life
+Fan Assembly,D028,Failed
+Fan Assembly,D031,Fault/Short Circuit
+Fan Assembly,D034,Frozen/Hot
+Fan Assembly,D242,Ineffective
+Fan Assembly,D243,Inefficient
+Fan Assembly,D008,Loose (Detached)
+Fan Assembly,D998,No Fault Found
+Fan Assembly,D070,No Power
+Fan Assembly,D047,Not Controlling
+Fan Assembly,D999,Other Reason (Explain)
+Fan Assembly,D158,Seized/Jammed
+Fan Assembly,D012,"Siezed (Stuck,Frozen,Jammed)"
+Fan Assembly,D063,Worn
+Feeder,D001,Blockage
+Feeder,D002,"Broken (Cracked,Leaking,Holed)"
+Feeder,D022,Coating/Lining failure
+Feeder,D025,Cracked
+Feeder,D007,End of Life
+Feeder,D031,Fault/Short Circuit
+Feeder,D035,High Temp
+Feeder,D037,Leaking
+Feeder,D008,Loose (Detached)
+Feeder,D041,Lube/Service leakage
+Feeder,D998,No Fault Found
+Feeder,D999,Other Reason (Explain)
+Feeder,D060,Vibration/Noisy
+Feeder,D063,Worn
+Filter,D017,Bent
+Filter,D001,Blockage
+Filter,D002,"Broken (Cracked,Leaking,Holed)"
+Filter,D022,Coating/Lining failure
+Filter,D004,Contaminated
+Filter,D024,Corroded
+Filter,D025,Cracked
+Filter,D221,Damaged
+Filter,D005,"Deformed (Bent,Twisted)"
+Filter,D224,Depleted
+Filter,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Filter,D007,End of Life
+Filter,D028,Failed
+Filter,D234,Full
+Filter,D015,Hollowed
+Filter,D037,Leaking
+Filter,D008,Loose (Detached)
+Filter,D039,Loss of Thickness
+Filter,D998,No Fault Found
+Filter,D999,Other Reason (Explain)
+Filter,D052,Product leakage
+Filter,D158,Seized/Jammed
+Filter,D063,Worn
+Fire Suppression System,D019,Broken
+Fire Suppression System,D025,Cracked
+Fire Suppression System,D028,Failed
+Fire Suppression System,D234,Full
+Fire Suppression System,D237,Illegible
+Fire Suppression System,D037,Leaking
+Fire Suppression System,D255,Non-Compliant
+Fire Suppression System,D256,Non-Powered
+Fire Suppression System,D063,Worn
+Fuel Injector,D004,Contaminated
+Fuel Injector,D063,Worn
+Gearbox,D078,"Bearing, Input"
+Gearbox,D079,"Bearing, Interm"
+Gearbox,D080,"Bearing, Output"
+Gearbox,D001,Blockage
+Gearbox,D019,Broken
+Gearbox,D003,"Burnt (Fused,Melted)"
+Gearbox,D081,Casing Damage
+Gearbox,D022,Coating/Lining failure
+Gearbox,D004,Contaminated
+Gearbox,D082,Cooling Fan Damage
+Gearbox,D024,Corroded
+Gearbox,D083,Coupling Damage
+Gearbox,D025,Cracked
+Gearbox,D221,Damaged
+Gearbox,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Gearbox,D007,End of Life
+Gearbox,D028,Failed
+Gearbox,D086,Fluid Deterioration
+Gearbox,D035,High Temp
+Gearbox,D088,Holdback Damage
+Gearbox,D243,Inefficient
+Gearbox,D037,Leaking
+Gearbox,D008,Loose (Detached)
+Gearbox,D040,Low Level
+Gearbox,D998,No Fault Found
+Gearbox,D071,Noisy
+Gearbox,D999,Other Reason (Explain)
+Gearbox,D011,Preventive Maintenance (PM)
+Gearbox,D093,"Seal Failure, Input"
+Gearbox,D094,"Seal Failure, Output"
+Gearbox,D158,Seized/Jammed
+Gearbox,D012,"Siezed (Stuck,Frozen,Jammed)"
+Gearbox,D096,Tooth Broken
+Gearbox,D097,Tooth Worn
+Gearbox,D063,Worn
+Genset,D001,Blockage
+Genset,D019,Broken
+Genset,D002,"Broken (Cracked,Leaking,Holed)"
+Genset,D003,"Burnt (Fused,Melted)"
+Genset,D004,Contaminated
+Genset,D024,Corroded
+Genset,D025,Cracked
+Genset,D221,Damaged
+Genset,D005,"Deformed (Bent,Twisted)"
+Genset,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Genset,D026,Down to Earth
+Genset,D230,Empty
+Genset,D007,End of Life
+Genset,D028,Failed
+Genset,D031,Fault/Short Circuit
+Genset,D032,Flooded
+Genset,D034,Frozen/Hot
+Genset,D008,Loose (Detached)
+Genset,D248,Loss
+Genset,D041,Lube/Service leakage
+Genset,D044,No Drive
+Genset,D998,No Fault Found
+Genset,D070,No Power
+Genset,D999,Other Reason (Explain)
+Genset,D048,Other Reason [Explain]
+Genset,D265,Perished
+Genset,D158,Seized/Jammed
+Genset,D012,"Siezed (Stuck,Frozen,Jammed)"
+Genset,D057,Soft Starter Fault
+Genset,D058,Structural Damage
+Genset,D013,Trip (Action of Safety Device)
+Genset,D063,Worn
+Heater,D017,Bent
+Heater,D001,Blockage
+Heater,D215,Blown
+Heater,D019,Broken
+Heater,D003,"Burnt (Fused,Melted)"
+Heater,D024,Corroded
+Heater,D025,Cracked
+Heater,D005,"Deformed (Bent,Twisted)"
+Heater,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Heater,D007,End of Life
+Heater,D028,Failed
+Heater,D031,Fault/Short Circuit
+Heater,D244,Inoperable
+Heater,D998,No Fault Found
+Heater,D070,No Power
+Heater,D047,Not Controlling
+Heater,D999,Other Reason (Explain)
+Heater,D012,"Siezed (Stuck,Frozen,Jammed)"
+Hopper,D002,"Broken (Cracked,Leaking,Holed)"
+Hopper,D003,"Burnt (Fused,Melted)"
+Hopper,D024,Corroded
+Hopper,D025,Cracked
+Hopper,D005,"Deformed (Bent,Twisted)"
+Hopper,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Hopper,D007,End of Life
+Hopper,D028,Failed
+Hopper,D008,Loose (Detached)
+Hopper,D998,No Fault Found
+Hopper,D999,Other Reason (Explain)
+Hopper,D012,"Siezed (Stuck,Frozen,Jammed)"
+Hopper,D063,Worn
+Hose Line and Fitting,D019,Broken
+Hose Line and Fitting,D221,Damaged
+Hydraulic Motor,D001,Blockage
+Hydraulic Motor,D037,Leaking
+Hydraulic Motor,D008,Loose (Detached)
+Hydraulic System,D001,Blockage
+Hydraulic System,D024,Corroded
+Hydraulic System,D221,Damaged
+Hydraulic System,D222,Defective
+Hydraulic System,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Hydraulic System,D028,Failed
+Hydraulic System,D243,Inefficient
+Hydraulic System,D037,Leaking
+Hydraulic System,D063,Worn
+Idler/Roller,D019,Broken
+Idler/Roller,D178,Collapsed
+Idler/Roller,D024,Corroded
+Idler/Roller,D025,Cracked
+Idler/Roller,D221,Damaged
+Idler/Roller,D028,Failed
+Idler/Roller,D037,Leaking
+Idler/Roller,D008,Loose (Detached)
+Idler/Roller,D158,Seized/Jammed
+Idler/Roller,D063,Worn
+Idlers/Roller,D017,Bent
+Idlers/Roller,D002,"Broken (Cracked,Leaking,Holed)"
+Idlers/Roller,D003,"Burnt (Fused,Melted)"
+Idlers/Roller,D024,Corroded
+Idlers/Roller,D025,Cracked
+Idlers/Roller,D005,"Deformed (Bent,Twisted)"
+Idlers/Roller,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Idlers/Roller,D008,Loose (Detached)
+Idlers/Roller,D039,Loss of Thickness
+Idlers/Roller,D998,No Fault Found
+Idlers/Roller,D999,Other Reason (Explain)
+Idlers/Roller,D058,Structural Damage
+Idlers/Roller,D063,Worn
+Instruments/Controls,D001,Blockage
+Instruments/Controls,D019,Broken
+Instruments/Controls,D003,"Burnt (Fused,Melted)"
+Instruments/Controls,D105,Calibration Fault
+Instruments/Controls,D004,Contaminated
+Instruments/Controls,D024,Corroded
+Instruments/Controls,D025,Cracked
+Instruments/Controls,D221,Damaged
+Instruments/Controls,D222,Defective
+Instruments/Controls,D005,"Deformed (Bent,Twisted)"
+Instruments/Controls,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Instruments/Controls,D227,Dirty
+Instruments/Controls,D228,Discharged
+Instruments/Controls,D026,Down to Earth
+Instruments/Controls,D007,End of Life
+Instruments/Controls,D028,Failed
+Instruments/Controls,D031,Fault/Short Circuit
+Instruments/Controls,D035,High Temp
+Instruments/Controls,D237,Illegible
+Instruments/Controls,D239,Inaccurate
+Instruments/Controls,D242,Ineffective
+Instruments/Controls,D244,Inoperable
+Instruments/Controls,D037,Leaking
+Instruments/Controls,D008,Loose (Detached)
+Instruments/Controls,D042,Missing
+Instruments/Controls,D998,No Fault Found
+Instruments/Controls,D047,Not Controlling
+Instruments/Controls,D999,Other Reason (Explain)
+Instruments/Controls,D262,Out of Position
+Instruments/Controls,D012,"Siezed (Stuck,Frozen,Jammed)"
+Instruments/Controls,D277,Spurious Operation
+Instruments/Controls,D063,Worn
+Locomotive,D001,Blockage
+Locomotive,D002,"Broken (Cracked,Leaking,Holed)"
+Locomotive,D025,Cracked
+Locomotive,D005,"Deformed (Bent,Twisted)"
+Locomotive,D026,Down to Earth
+Locomotive,D031,Fault/Short Circuit
+Locomotive,D037,Leaking
+Locomotive,D008,Loose (Detached)
+Locomotive,D998,No Fault Found
+Locomotive,D098,Open Circuit
+Locomotive,D999,Other Reason (Explain)
+Locomotive,D012,"Siezed (Stuck,Frozen,Jammed)"
+Lubrication Unit,D001,Blockage
+Lubrication Unit,D019,Broken
+Lubrication Unit,D218,Bypassing
+Lubrication Unit,D004,Contaminated
+Lubrication Unit,D025,Cracked
+Lubrication Unit,D221,Damaged
+Lubrication Unit,D224,Depleted
+Lubrication Unit,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Lubrication Unit,D230,Empty
+Lubrication Unit,D239,Inaccurate
+Lubrication Unit,D242,Ineffective
+Lubrication Unit,D037,Leaking
+Lubrication Unit,D158,Seized/Jammed
+Lubrication Unit,D063,Worn
+Manifold,D221,Damaged
+Manifold,D028,Failed
+Metal Detector,D017,Bent
+Metal Detector,D019,Broken
+Metal Detector,D003,"Burnt (Fused,Melted)"
+Metal Detector,D105,Calibration Fault
+Metal Detector,D024,Corroded
+Metal Detector,D025,Cracked
+Metal Detector,D221,Damaged
+Metal Detector,D005,"Deformed (Bent,Twisted)"
+Metal Detector,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Metal Detector,D007,End of Life
+Metal Detector,D028,Failed
+Metal Detector,D031,Fault/Short Circuit
+Metal Detector,D237,Illegible
+Metal Detector,D998,No Fault Found
+Metal Detector,D070,No Power
+Metal Detector,D047,Not Controlling
+Metal Detector,D999,Other Reason (Explain)
+Metal Detector,D012,"Siezed (Stuck,Frozen,Jammed)"
+Monorail,D017,Bent
+Monorail,D019,Broken
+Monorail,D022,Coating/Lining failure
+Monorail,D024,Corroded
+Monorail,D025,Cracked
+Monorail,D005,"Deformed (Bent,Twisted)"
+Monorail,D028,Failed
+Monorail,D998,No Fault Found
+Monorail,D999,Other Reason (Explain)
+Motor,D001,Blockage
+Motor,D019,Broken
+Motor,D003,"Burnt (Fused,Melted)"
+Motor,D022,Coating/Lining failure
+Motor,D004,Contaminated
+Motor,D024,Corroded
+Motor,D025,Cracked
+Motor,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Motor,D007,End of Life
+Motor,D028,Failed
+Motor,D031,Fault/Short Circuit
+Motor,D035,High Temp
+Motor,D237,Illegible
+Motor,D242,Ineffective
+Motor,D037,Leaking
+Motor,D008,Loose (Detached)
+Motor,D042,Missing
+Motor,D998,No Fault Found
+Motor,D071,Noisy
+Motor,D999,Other Reason (Explain)
+Motor,D049,Overheating
+Motor,D158,Seized/Jammed
+Motor,D012,"Siezed (Stuck,Frozen,Jammed)"
+Motor,D063,Worn
+Muffler,D221,Damaged
+Panel (Marshalling Etc),D001,Blockage
+Panel (Marshalling Etc),D214,Blow Out
+Panel (Marshalling Etc),D215,Blown
+Panel (Marshalling Etc),D002,"Broken (Cracked,Leaking,Holed)"
+Panel (Marshalling Etc),D003,"Burnt (Fused,Melted)"
+Panel (Marshalling Etc),D024,Corroded
+Panel (Marshalling Etc),D025,Cracked
+Panel (Marshalling Etc),D221,Damaged
+Panel (Marshalling Etc),D222,Defective
+Panel (Marshalling Etc),D005,"Deformed (Bent,Twisted)"
+Panel (Marshalling Etc),D006,"Deteriorated (Worn,Corroded,Depleted)"
+Panel (Marshalling Etc),D007,End of Life
+Panel (Marshalling Etc),D028,Failed
+Panel (Marshalling Etc),D031,Fault/Short Circuit
+Panel (Marshalling Etc),D034,Frozen/Hot
+Panel (Marshalling Etc),D237,Illegible
+Panel (Marshalling Etc),D244,Inoperable
+Panel (Marshalling Etc),D037,Leaking
+Panel (Marshalling Etc),D008,Loose (Detached)
+Panel (Marshalling Etc),D252,Malfunction
+Panel (Marshalling Etc),D998,No Fault Found
+Panel (Marshalling Etc),D070,No Power
+Panel (Marshalling Etc),D260,Obsolete
+Panel (Marshalling Etc),D999,Other Reason (Explain)
+Panel (Marshalling Etc),D048,Other Reason [Explain]
+Panel (Marshalling Etc),D049,Overheating
+Panel (Marshalling Etc),D265,Perished
+Panel (Marshalling Etc),D012,"Siezed (Stuck,Frozen,Jammed)"
+Panel (Marshalling Etc),D063,Worn
+Piping/Tubing/Hose,D017,Bent
+Piping/Tubing/Hose,D001,Blockage
+Piping/Tubing/Hose,D002,"Broken (Cracked,Leaking,Holed)"
+Piping/Tubing/Hose,D003,"Burnt (Fused,Melted)"
+Piping/Tubing/Hose,D022,Coating/Lining failure
+Piping/Tubing/Hose,D024,Corroded
+Piping/Tubing/Hose,D025,Cracked
+Piping/Tubing/Hose,D221,Damaged
+Piping/Tubing/Hose,D005,"Deformed (Bent,Twisted)"
+Piping/Tubing/Hose,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Piping/Tubing/Hose,D120,Erosion
+Piping/Tubing/Hose,D028,Failed
+Piping/Tubing/Hose,D015,Hollowed
+Piping/Tubing/Hose,D037,Leaking
+Piping/Tubing/Hose,D008,Loose (Detached)
+Piping/Tubing/Hose,D039,Loss of Thickness
+Piping/Tubing/Hose,D998,No Fault Found
+Piping/Tubing/Hose,D999,Other Reason (Explain)
+Piping/Tubing/Hose,D058,Structural Damage
+Piping/Tubing/Hose,D063,Worn
+Power Pack Hydraulic,D002,"Broken (Cracked,Leaking,Holed)"
+Power Pack Hydraulic,D024,Corroded
+Power Pack Hydraulic,D025,Cracked
+Power Pack Hydraulic,D005,"Deformed (Bent,Twisted)"
+Power Pack Hydraulic,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Power Pack Hydraulic,D007,End of Life
+Power Pack Hydraulic,D034,Frozen/Hot
+Power Pack Hydraulic,D037,Leaking
+Power Pack Hydraulic,D008,Loose (Detached)
+Power Pack Hydraulic,D998,No Fault Found
+Power Pack Hydraulic,D070,No Power
+Power Pack Hydraulic,D999,Other Reason (Explain)
+Power Pack Hydraulic,D048,Other Reason [Explain]
+Power Pack Hydraulic,D012,"Siezed (Stuck,Frozen,Jammed)"
+Power Pack Hydraulic,D063,Worn
+Pulley,D074,Bearing Cage Failure
+Pulley,D075,Bearing Inner Race
+Pulley,D076,Bearing Outer Race
+Pulley,D077,"Bearing Sleeve Failure, Looseness"
+Pulley,D017,Bent
+Pulley,D019,Broken
+Pulley,D022,Coating/Lining failure
+Pulley,D178,Collapsed
+Pulley,D024,Corroded
+Pulley,D025,Cracked
+Pulley,D084,"Cracked, Work Shell"
+Pulley,D221,Damaged
+Pulley,D005,"Deformed (Bent,Twisted)"
+Pulley,D229,Drift
+Pulley,D007,End of Life
+Pulley,D028,Failed
+Pulley,D087,Grease Lines
+Pulley,D089,Housing Damage
+Pulley,D090,Housing Seal Failure
+Pulley,D091,Lagging Failure
+Pulley,D037,Leaking
+Pulley,D092,Locking Element Failure
+Pulley,D008,Loose (Detached)
+Pulley,D009,Misalignment
+Pulley,D998,No Fault Found
+Pulley,D071,Noisy
+Pulley,D999,Other Reason (Explain)
+Pulley,D158,Seized/Jammed
+Pulley,D095,Shaft Damage
+Pulley,D012,"Siezed (Stuck,Frozen,Jammed)"
+Pulley,D056,Snapped Shaft
+Pulley,D060,Vibration/Noisy
+Pulley,D063,Worn
+Pump,D001,Blockage
+Pump,D019,Broken
+Pump,D003,"Burnt (Fused,Melted)"
+Pump,D218,Bypassing
+Pump,D024,Corroded
+Pump,D025,Cracked
+Pump,D221,Damaged
+Pump,D005,"Deformed (Bent,Twisted)"
+Pump,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Pump,D007,End of Life
+Pump,D028,Failed
+Pump,D037,Leaking
+Pump,D008,Loose (Detached)
+Pump,D248,Loss
+Pump,D039,Loss of Thickness
+Pump,D998,No Fault Found
+Pump,D047,Not Controlling
+Pump,D999,Other Reason (Explain)
+Pump,D052,Product leakage
+Pump,D270,Rupture
+Pump,D158,Seized/Jammed
+Pump,D012,"Siezed (Stuck,Frozen,Jammed)"
+Pump,D272,Slips
+Pump,D056,Snapped Shaft
+Pump,D063,Worn
+Radiator Engine,D001,Blockage
+Radiator Engine,D024,Corroded
+Radiator Engine,D025,Cracked
+Radiator Engine,D221,Damaged
+Radiator Engine,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Radiator Engine,D028,Failed
+Radiator Engine,D235,Hardened
+Radiator Engine,D242,Ineffective
+Radiator Engine,D243,Inefficient
+Radiator Engine,D037,Leaking
+Radiator Engine,D008,Loose (Detached)
+Radiator Engine,D251,Low
+Radiator Engine,D265,Perished
+Radiator Engine,D267,Plugged
+Radiator Engine,D063,Worn
+Relay (Electrical),D002,"Broken (Cracked,Leaking,Holed)"
+Relay (Electrical),D003,"Burnt (Fused,Melted)"
+Relay (Electrical),D024,Corroded
+Relay (Electrical),D025,Cracked
+Relay (Electrical),D221,Damaged
+Relay (Electrical),D005,"Deformed (Bent,Twisted)"
+Relay (Electrical),D006,"Deteriorated (Worn,Corroded,Depleted)"
+Relay (Electrical),D007,End of Life
+Relay (Electrical),D028,Failed
+Relay (Electrical),D031,Fault/Short Circuit
+Relay (Electrical),D034,Frozen/Hot
+Relay (Electrical),D244,Inoperable
+Relay (Electrical),D008,Loose (Detached)
+Relay (Electrical),D252,Malfunction
+Relay (Electrical),D998,No Fault Found
+Relay (Electrical),D070,No Power
+Relay (Electrical),D999,Other Reason (Explain)
+Relay (Electrical),D048,Other Reason [Explain]
+Relay (Electrical),D012,"Siezed (Stuck,Frozen,Jammed)"
+Relay (Electrical),D063,Worn
+Rock Breaker,D028,Failed
+Rock Breaker,D243,Inefficient
+Rock Breaker,D158,Seized/Jammed
+Rock Breaker,D063,Worn
+Sampler,D002,"Broken (Cracked,Leaking,Holed)"
+Sampler,D024,Corroded
+Sampler,D025,Cracked
+Sampler,D005,"Deformed (Bent,Twisted)"
+Sampler,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Sampler,D007,End of Life
+Sampler,D028,Failed
+Sampler,D034,Frozen/Hot
+Sampler,D243,Inefficient
+Sampler,D008,Loose (Detached)
+Sampler,D009,Misalignment
+Sampler,D998,No Fault Found
+Sampler,D070,No Power
+Sampler,D999,Other Reason (Explain)
+Sampler,D158,Seized/Jammed
+Sampler,D012,"Siezed (Stuck,Frozen,Jammed)"
+Sampler,D063,Worn
+Scraper (Conveyor),D017,Bent
+Scraper (Conveyor),D019,Broken
+Scraper (Conveyor),D022,Coating/Lining failure
+Scraper (Conveyor),D024,Corroded
+Scraper (Conveyor),D025,Cracked
+Scraper (Conveyor),D221,Damaged
+Scraper (Conveyor),D005,"Deformed (Bent,Twisted)"
+Scraper (Conveyor),D006,"Deteriorated (Worn,Corroded,Depleted)"
+Scraper (Conveyor),D007,End of Life
+Scraper (Conveyor),D028,Failed
+Scraper (Conveyor),D243,Inefficient
+Scraper (Conveyor),D008,Loose (Detached)
+Scraper (Conveyor),D998,No Fault Found
+Scraper (Conveyor),D999,Other Reason (Explain)
+Scraper (Conveyor),D012,"Siezed (Stuck,Frozen,Jammed)"
+Scraper (Conveyor),D056,Snapped Shaft
+Scraper (Conveyor),D063,Worn
+Screen,D019,Broken
+Screen,D024,Corroded
+Screen,D025,Cracked
+Screen,D221,Damaged
+Screen,D028,Failed
+Screen,D008,Loose (Detached)
+Screen,D063,Worn
+Screens,D001,Blockage
+Screens,D002,"Broken (Cracked,Leaking,Holed)"
+Screens,D003,"Burnt (Fused,Melted)"
+Screens,D022,Coating/Lining failure
+Screens,D007,End of Life
+Screens,D031,Fault/Short Circuit
+Screens,D035,High Temp
+Screens,D037,Leaking
+Screens,D008,Loose (Detached)
+Screens,D041,Lube/Service leakage
+Screens,D998,No Fault Found
+Screens,D999,Other Reason (Explain)
+Screens,D060,Vibration/Noisy
+Screens,D063,Worn
+Scrubber,D001,Blockage
+Scrubber,D002,"Broken (Cracked,Leaking,Holed)"
+Scrubber,D003,"Burnt (Fused,Melted)"
+Scrubber,D022,Coating/Lining failure
+Scrubber,D007,End of Life
+Scrubber,D031,Fault/Short Circuit
+Scrubber,D035,High Temp
+Scrubber,D037,Leaking
+Scrubber,D008,Loose (Detached)
+Scrubber,D041,Lube/Service leakage
+Scrubber,D998,No Fault Found
+Scrubber,D999,Other Reason (Explain)
+Scrubber,D060,Vibration/Noisy
+Scrubber,D063,Worn
+Spray Cannon Water,D002,"Broken (Cracked,Leaking,Holed)"
+Spray Cannon Water,D024,Corroded
+Spray Cannon Water,D025,Cracked
+Spray Cannon Water,D005,"Deformed (Bent,Twisted)"
+Spray Cannon Water,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Spray Cannon Water,D007,End of Life
+Spray Cannon Water,D034,Frozen/Hot
+Spray Cannon Water,D008,Loose (Detached)
+Spray Cannon Water,D998,No Fault Found
+Spray Cannon Water,D070,No Power
+Spray Cannon Water,D999,Other Reason (Explain)
+Spray Cannon Water,D048,Other Reason [Explain]
+Spray Cannon Water,D012,"Siezed (Stuck,Frozen,Jammed)"
+Spray Cannon Water,D063,Worn
+Starter Motor,D025,Cracked
+Starter Motor,D028,Failed
+Starter Motor,D008,Loose (Detached)
+Starter Motor,D249,Loss of Power
+Starter Motor,D042,Missing
+Structure/Platform/Stand,D017,Bent
+Structure/Platform/Stand,D001,Blockage
+Structure/Platform/Stand,D019,Broken
+Structure/Platform/Stand,D002,"Broken (Cracked,Leaking,Holed)"
+Structure/Platform/Stand,D003,"Burnt (Fused,Melted)"
+Structure/Platform/Stand,D105,Calibration Fault
+Structure/Platform/Stand,D022,Coating/Lining failure
+Structure/Platform/Stand,D024,Corroded
+Structure/Platform/Stand,D025,Cracked
+Structure/Platform/Stand,D221,Damaged
+Structure/Platform/Stand,D005,"Deformed (Bent,Twisted)"
+Structure/Platform/Stand,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Structure/Platform/Stand,D227,Dirty
+Structure/Platform/Stand,D028,Failed
+Structure/Platform/Stand,D033,Frayed
+Structure/Platform/Stand,D015,Hollowed
+Structure/Platform/Stand,D237,Illegible
+Structure/Platform/Stand,D239,Inaccurate
+Structure/Platform/Stand,D008,Loose (Detached)
+Structure/Platform/Stand,D039,Loss of Thickness
+Structure/Platform/Stand,D252,Malfunction
+Structure/Platform/Stand,D042,Missing
+Structure/Platform/Stand,D998,No Fault Found
+Structure/Platform/Stand,D999,Other Reason (Explain)
+Structure/Platform/Stand,D158,Seized/Jammed
+Structure/Platform/Stand,D058,Structural Damage
+Structure/Platform/Stand,D063,Worn
+Switchboard,D211,Arc Flash
+Switchboard,D002,"Broken (Cracked,Leaking,Holed)"
+Switchboard,D003,"Burnt (Fused,Melted)"
+Switchboard,D004,Contaminated
+Switchboard,D024,Corroded
+Switchboard,D025,Cracked
+Switchboard,D221,Damaged
+Switchboard,D005,"Deformed (Bent,Twisted)"
+Switchboard,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Switchboard,D007,End of Life
+Switchboard,D028,Failed
+Switchboard,D031,Fault/Short Circuit
+Switchboard,D034,Frozen/Hot
+Switchboard,D008,Loose (Detached)
+Switchboard,D998,No Fault Found
+Switchboard,D070,No Power
+Switchboard,D999,Other Reason (Explain)
+Switchboard,D048,Other Reason [Explain]
+Switchboard,D049,Overheating
+Switchboard,D051,PLC Fault
+Switchboard,D012,"Siezed (Stuck,Frozen,Jammed)"
+Switchboard,D063,Worn
+System Dust Surpression,D017,Bent
+System Dust Surpression,D001,Blockage
+System Dust Surpression,D002,"Broken (Cracked,Leaking,Holed)"
+System Dust Surpression,D022,Coating/Lining failure
+System Dust Surpression,D024,Corroded
+System Dust Surpression,D025,Cracked
+System Dust Surpression,D221,Damaged
+System Dust Surpression,D005,"Deformed (Bent,Twisted)"
+System Dust Surpression,D006,"Deteriorated (Worn,Corroded,Depleted)"
+System Dust Surpression,D227,Dirty
+System Dust Surpression,D007,End of Life
+System Dust Surpression,D028,Failed
+System Dust Surpression,D015,Hollowed
+System Dust Surpression,D037,Leaking
+System Dust Surpression,D008,Loose (Detached)
+System Dust Surpression,D039,Loss of Thickness
+System Dust Surpression,D998,No Fault Found
+System Dust Surpression,D999,Other Reason (Explain)
+System Dust Surpression,D052,Product leakage
+System Dust Surpression,D158,Seized/Jammed
+System Dust Surpression,D063,Worn
+Thermostats,D001,Blockage
+Thermostats,D221,Damaged
+Thermostats,D251,Low
+Thickener/Tank,D017,Bent
+Thickener/Tank,D001,Blockage
+Thickener/Tank,D019,Broken
+Thickener/Tank,D002,"Broken (Cracked,Leaking,Holed)"
+Thickener/Tank,D218,Bypassing
+Thickener/Tank,D022,Coating/Lining failure
+Thickener/Tank,D004,Contaminated
+Thickener/Tank,D024,Corroded
+Thickener/Tank,D025,Cracked
+Thickener/Tank,D221,Damaged
+Thickener/Tank,D222,Defective
+Thickener/Tank,D005,"Deformed (Bent,Twisted)"
+Thickener/Tank,D224,Depleted
+Thickener/Tank,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Thickener/Tank,D230,Empty
+Thickener/Tank,D007,End of Life
+Thickener/Tank,D234,Full
+Thickener/Tank,D015,Hollowed
+Thickener/Tank,D037,Leaking
+Thickener/Tank,D008,Loose (Detached)
+Thickener/Tank,D039,Loss of Thickness
+Thickener/Tank,D251,Low
+Thickener/Tank,D998,No Fault Found
+Thickener/Tank,D999,Other Reason (Explain)
+Thickener/Tank,D264,Over-Filled
+Thickener/Tank,D052,Product leakage
+Thickener/Tank,D275,Spill
+Thickener/Tank,D058,Structural Damage
+Thickener/Tank,D063,Worn
+Tools Other,D028,Failed
+Tools Other,D031,Fault/Short Circuit
+Tools Other,D008,Loose (Detached)
+Transformer,D211,Arc Flash
+Transformer,D212,Auxilliary Fault
+Transformer,D001,Blockage
+Transformer,D019,Broken
+Transformer,D003,"Burnt (Fused,Melted)"
+Transformer,D022,Coating/Lining failure
+Transformer,D004,Contaminated
+Transformer,D024,Corroded
+Transformer,D025,Cracked
+Transformer,D005,"Deformed (Bent,Twisted)"
+Transformer,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Transformer,D026,Down to Earth
+Transformer,D007,End of Life
+Transformer,D028,Failed
+Transformer,D031,Fault/Short Circuit
+Transformer,D035,High Temp
+Transformer,D237,Illegible
+Transformer,D244,Inoperable
+Transformer,D245,Internal Failure
+Transformer,D037,Leaking
+Transformer,D008,Loose (Detached)
+Transformer,D251,Low
+Transformer,D998,No Fault Found
+Transformer,D257,Not Fully Assembled
+Transformer,D999,Other Reason (Explain)
+Transformer,D049,Overheating
+Transformer,D167,Short Circuit
+Transformer,D013,Trip (Action of Safety Device)
+Transformer,D063,Worn
+Trolley,D017,Bent
+Trolley,D002,"Broken (Cracked,Leaking,Holed)"
+Trolley,D022,Coating/Lining failure
+Trolley,D024,Corroded
+Trolley,D025,Cracked
+Trolley,D221,Damaged
+Trolley,D005,"Deformed (Bent,Twisted)"
+Trolley,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Trolley,D015,Hollowed
+Trolley,D008,Loose (Detached)
+Trolley,D039,Loss of Thickness
+Trolley,D998,No Fault Found
+Trolley,D999,Other Reason (Explain)
+Trolley,D058,Structural Damage
+Trolley,D063,Worn
+Turbocharger,D024,Corroded
+Turbocharger,D222,Defective
+Turbocharger,D224,Depleted
+Turbocharger,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Turbocharger,D028,Failed
+Turbocharger,D236,High Resistance
+UPS,D002,"Broken (Cracked,Leaking,Holed)"
+UPS,D003,"Burnt (Fused,Melted)"
+UPS,D004,Contaminated
+UPS,D024,Corroded
+UPS,D025,Cracked
+UPS,D222,Defective
+UPS,D005,"Deformed (Bent,Twisted)"
+UPS,D224,Depleted
+UPS,D006,"Deteriorated (Worn,Corroded,Depleted)"
+UPS,D007,End of Life
+UPS,D028,Failed
+UPS,D031,Fault/Short Circuit
+UPS,D034,Frozen/Hot
+UPS,D236,High Resistance
+UPS,D244,Inoperable
+UPS,D008,Loose (Detached)
+UPS,D998,No Fault Found
+UPS,D070,No Power
+UPS,D999,Other Reason (Explain)
+UPS,D048,Other Reason [Explain]
+UPS,D051,PLC Fault
+UPS,D012,"Siezed (Stuck,Frozen,Jammed)"
+UPS,D063,Worn
+Valve,D001,Blockage
+Valve,D019,Broken
+Valve,D003,"Burnt (Fused,Melted)"
+Valve,D024,Corroded
+Valve,D025,Cracked
+Valve,D221,Damaged
+Valve,D005,"Deformed (Bent,Twisted)"
+Valve,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Valve,D007,End of Life
+Valve,D028,Failed
+Valve,D237,Illegible
+Valve,D241,Incorrect Position
+Valve,D244,Inoperable
+Valve,D037,Leaking
+Valve,D008,Loose (Detached)
+Valve,D039,Loss of Thickness
+Valve,D042,Missing
+Valve,D998,No Fault Found
+Valve,D071,Noisy
+Valve,D047,Not Controlling
+Valve,D999,Other Reason (Explain)
+Valve,D265,Perished
+Valve,D052,Product leakage
+Valve,D158,Seized/Jammed
+Valve,D012,"Siezed (Stuck,Frozen,Jammed)"
+Valve,D056,Snapped Shaft
+Valve,D063,Worn
+Variable Speed Drive,D001,Blockage
+Variable Speed Drive,D002,"Broken (Cracked,Leaking,Holed)"
+Variable Speed Drive,D003,"Burnt (Fused,Melted)"
+Variable Speed Drive,D221,Damaged
+Variable Speed Drive,D222,Defective
+Variable Speed Drive,D006,"Deteriorated (Worn,Corroded,Depleted)"
+Variable Speed Drive,D007,End of Life
+Variable Speed Drive,D028,Failed
+Variable Speed Drive,D031,Fault/Short Circuit
+Variable Speed Drive,D141,Incorrect Operation
+Variable Speed Drive,D244,Inoperable
+Variable Speed Drive,D008,Loose (Detached)
+Variable Speed Drive,D998,No Fault Found
+Variable Speed Drive,D999,Other Reason (Explain)
+Variable Speed Drive,D158,Seized/Jammed
+Variable Speed Drive,D073,Smell Smoke
+Variable Speed Drive,D060,Vibration/Noisy
+Variable Speed Drive,D063,Worn
+Weightometer,D017,Bent
+Weightometer,D019,Broken
+Weightometer,D003,"Burnt (Fused,Melted)"
+Weightometer,D105,Calibration Fault
+Weightometer,D024,Corroded
+Weightometer,D025,Cracked
+Weightometer,D221,Damaged
+Weightometer,D005,"Deformed (Bent,Twisted)"
+Weightometer,D007,End of Life
+Weightometer,D028,Failed
+Weightometer,D031,Fault/Short Circuit
+Weightometer,D237,Illegible
+Weightometer,D244,Inoperable
+Weightometer,D008,Loose (Detached)
+Weightometer,D998,No Fault Found
+Weightometer,D070,No Power
+Weightometer,D047,Not Controlling
+Weightometer,D999,Other Reason (Explain)
+Weightometer,D012,"Siezed (Stuck,Frozen,Jammed)"
+Weightometer,D063,Worn
+Winch Assembly,D998,No Fault Found
+Winch Assembly,D999,Other Reason (Explain)
+Winch Rope,D998,No Fault Found
+Winch Rope,D999,Other Reason (Explain)

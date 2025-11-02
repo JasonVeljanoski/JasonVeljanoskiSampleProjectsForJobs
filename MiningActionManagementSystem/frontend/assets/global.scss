@@ -1,0 +1,186 @@
+html {
+  overflow: hidden !important;
+  font-size: 16px !important;
+}
+
+.v-application.theme--light {
+  background: #fafafa !important;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+
+  background: var(--scrollbar-background);
+
+  &-track,
+  &-corner {
+    border-left: 1px solid;
+
+    background: var(--scrollbar-background);
+    border-left-color: var(--scrollbar-background);
+  }
+
+  &-thumb {
+    border: solid 3px;
+    border-radius: 7px;
+
+    background: var(--scrollbar-color);
+    border-color: var(--scrollbar-background);
+
+    &:hover {
+      background: var(--scrollbar-hover);
+    }
+  }
+}
+
+.root-card {
+  height: 100%;
+  overflow: hidden;
+}
+
+.v-card.flex-card {
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.v-input.readonly .v-input__slot,
+.readonly:not(.v-input) {
+  background: var(--readonly-background) !important;
+}
+
+.v-data-table.v-data-table--fixed-header {
+  height: 100%;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+
+  > .v-data-table__wrapper {
+    height: 100%;
+  }
+}
+
+.v-data-table.bordered {
+  td,
+  th {
+    border-right: thin solid var(--table-border);
+  }
+
+  .v-card > & tr > *:last-child {
+    border-right: 0;
+  }
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+
+  &:focus:not(:read-only) {
+    -moz-appearance: initial;
+  }
+}
+
+.simple-input,
+.simple-input input {
+  &::-webkit-inner-spin-button {
+    display: none;
+    -webkit-appearance: none;
+  }
+
+  &[type='number'] {
+    -moz-appearance: textfield !important;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  .theme--dark & {
+    color: white;
+  }
+}
+
+.v-card .v-card__title {
+  color: var(--v-primary-base);
+}
+
+.v-expansion-panel .v-expansion-panel-header {
+  color: var(--v-primary-base);
+  font-weight: bold;
+  font-size: 16pt;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.wrap-text {
+  overflow-wrap: anywhere;
+}
+
+.title-cell {
+  max-width: 350px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+// --------------------------------------------------
+
+/* smartphones, iPhone, portrait 480x320 phones */
+.mobile-view {
+  display: none;
+}
+
+@media only screen and (min-width: 320px) {
+  .mobile-view {
+    display: block;
+  }
+}
+
+// ---------------------------------------------------
+
+a {
+  text-decoration: none;
+}
+
+// ---------------------------------------------------
+
+.warning-background {
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
+// ---------------------------------------------------
+
+// Section wrapper
+
+.body-wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 100%;
+
+  max-height: calc(100vh - 250px);
+}
+
+// ---------------------------------------------------
+
+// Format of any html rendered in the app (e.g. from markdown editor)
+
+.html_render {
+  p {
+    margin-bottom: 1.3em;
+    text-align: justify;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin: 1em 0 0.5em;
+    // color: var(--v-primary-base);
+  }
+  h1 {
+    margin-top: 0;
+  }
+}

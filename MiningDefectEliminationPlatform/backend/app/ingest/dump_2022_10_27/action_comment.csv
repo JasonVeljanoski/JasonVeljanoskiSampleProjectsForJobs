@@ -1,0 +1,171 @@
+﻿id,created,updated,action_id,user_id,comment
+1,2022-08-05 07:59:37.357142+00,2022-08-05 07:59:37.357182+00,15532,2,Test comment
+2,2022-08-26 01:51:05.434752+00,2022-08-26 01:51:05.434789+00,15589,2, \t30/12/2020 MD - A magnet is to be installed over CV009 to pick up any tramp metal before the metal detector and reduce CV009 stoppages.
+3,2022-08-26 01:51:13.538564+00,2022-08-26 01:51:13.538605+00,15589,2,07/05/2021 MD - Waiting on an update from Ops Projects. Due date pushed out until after the next shutdown.
+4,2022-08-26 01:52:00.837735+00,2022-08-26 01:52:00.837766+00,15589,2,14/07/2021 MD - Reassigned to site projects team for execution.
+5,2022-08-26 01:52:09.785062+00,2022-08-26 01:52:09.785098+00,15589,2,28/04/22 DE Meeting - Installation planned for CP22OP03
+184,2022-10-27 02:28:15.174682+00,2022-10-27 02:28:15.174717+00,15594,8000,Two alternative skirt designs provided. Eng to assess feasibility of implementation.
+187,2022-08-26 02:01:30.094+00,2022-08-26 02:01:30.094+00,15467,2, Review critical hydraulic spares and adjust SAP as required\n\nMS 27/02 - Review of critical spares on site has been completed and all required items have been accounted for.  Awaiting Warehouse to issue a secure holding location in stores so we can enter the items in SAP.
+188,2022-08-26 02:01:39.146+00,2022-08-26 02:01:39.146+00,15467,2,MS 10/03 - Still awaiting warehouse responce for storing location. Will be adding SAP number for each critical item and adding them into the function locations
+189,2022-08-26 02:01:44.751+00,2022-08-26 02:01:44.751+00,15467,2,MS 28/03 - Meeting with Warehouse arranged for post shut to find a suitable location for critical spares. Then SAP can be updated with new part numbers and functional locations updated.
+190,2022-08-26 02:01:51.475+00,2022-08-26 02:01:51.475+00,15467,2,RJ 15/04 : Warehouse has not provided a consolidated location for critical spares. Critical spares feedback has not been provided yet from powerflow systems. Action extended
+191,2022-08-26 02:02:01.979+00,2022-08-26 02:02:01.979+00,15467,2,21/06 : action extended to complete audit 
+192,2022-08-26 02:02:12.801+00,2022-08-26 02:02:12.802+00,15467,2,30/09/02 HW - Unable to prioritise over previous few swings. Have had to push out to end of next swing
+193,2022-08-26 02:02:19.04+00,2022-08-26 02:02:19.04+00,15467,2,11/10 HW - Have lost access to SAP. Have pushed out another swing to finalise
+194,2022-08-26 02:02:27.387+00,2022-08-26 02:02:27.387+00,15467,2,25/10 DL Audit has not been completed. Action extended and will be prioritsed for completion. Need to follow up with powerflow
+195,2022-08-26 02:02:32.519+00,2022-08-26 02:02:32.519+00,15467,2,30/11/2021 TB Action extended to allow final review of audit to be completed and changes to SAP implemented
+196,2022-08-26 02:02:41.067+00,2022-08-26 02:02:41.067+00,15467,2,28/01/2022 MZ Action extended due to other priorites. A spreadsheet of hydraulic parts has been developed. More time is required to finalize the spreadsheet.
+197,2022-08-26 02:02:47.818+00,2022-08-26 02:02:47.818+00,15467,2,27/02/2022 MZ Action extended due to other priorites. Hydraulic spare part spreadsheet has been updated to include all pipeworks as well.  Spreadsheet has been sent to Powerflow to add update part numers. 
+198,2022-08-26 02:02:56.063+00,2022-08-26 02:02:56.063+00,15467,2,26/04/2022 MZ Action extended due to other priorites. Need more time to finalized the part list.
+199,2022-08-26 02:03:02.695+00,2022-08-26 02:03:02.695+00,15467,2,"21/06/2022 MZ Spare part list is complete, send to mainteance for reviewing. Action extended."
+200,2022-08-26 02:08:04.723+00,2022-08-26 02:08:04.723+00,15484,2,MS 16/12Awaiting review from HWC hydraulics for install methodology and cost. Will review and make a WO to suit if approved by all stakeholders
+201,2022-08-26 02:09:28.045+00,2022-08-26 02:09:28.045+00,15484,2,"MS 22.02.22 - After discussions with HWC, the plan is to get the new Metso HPU's sent away so they are electrically suitable and install during an outage. The old rotable HPU will also be sent back to ensure its suitable for a breakdown situation once the Metso ones arrive.\nWill close action once HPU's are installed "
+202,2022-08-26 02:10:16.607+00,2022-08-26 02:10:16.607+00,15484,2,"MS 02/06 still progressing with getting HPU's converted ready for install, more time required"
+203,2022-08-26 02:10:27.964+00,2022-08-26 02:10:27.964+00,15484,2,MS 25/08 - HWC have returned to site and scoped up the install oif the units on both CR001 & CR002. The HPUS have been sent back to their workshop for conversion so they are suitable.\nNotis will be riased and WO planned in for when labour and materials are ready\n
+204,2022-08-26 06:34:11.899+00,2022-08-26 06:34:11.899+00,15474,2,27/7 WH - WO scheduled in TL04 due to material availability. Action open until end of TL04. 
+205,2022-08-26 06:34:18.874+00,2022-08-26 06:34:18.874+00,15474,2,22/06 - No feed back recieved from powerflow yet on replacement pipe
+206,2022-08-26 06:34:25.913+00,2022-08-26 06:34:25.913+00,15474,2,28/10/2021 - Tbestwick- Action pushed until CP22OP01 pending material availability
+207,2022-08-26 06:34:35.77+00,2022-08-26 06:34:35.77+00,15474,2,17/1/22 - WHoyle - Action pushed until CP22TL02 as parts did not arrive on site for execution for CP22TL01.
+208,2022-08-26 06:35:15.192+00,2022-08-26 06:35:15.192+00,15474,2,17/1/22 - WHoyle - Action pushed until CP22TL02 as parts did not arrive on site for execution for CP22TL01.
+209,2022-08-26 06:35:33.491+00,2022-08-26 06:35:33.491+00,15474,2,05/04/22 - MZ - Action pushed until CP22TL03 due to extended scope has been identified during CP22TL02.
+210,2022-08-26 06:39:29.02+00,2022-08-26 06:39:29.02+00,15512,2,MS 18.08.22 - Some further work needed to be completed before the installation so it was not installed. We are aiming to install the unit and most of the pipework during weekly space and hopefully tie in during suitable train gaps. \nWill close out action once its installed and commissioned
+211,2022-08-26 06:40:13.88+00,2022-08-26 06:40:13.88+00,15494,2,24/01/2022 TB - Waiting for second failed actuator to identify what was the cause of failure. once this is complete and investigation into wether the actuators do require upgrading will be done. Action extended to allow more time.
+212,2022-08-26 06:40:36.657+00,2022-08-26 06:40:36.657+00,15494,2,26/04/22 MZ - Action extended due to other priorities.
+213,2022-08-26 06:42:57.388+00,2022-08-26 06:42:57.388+00,15494,2,02/08/22 MZ - Action extended due to other priorities.
+214,2022-08-26 06:45:19.902+00,2022-08-26 06:45:19.903+00,15493,2,24/01/2022 TB - Waiting for second failed actuator to identify what was the cause of failure. once this is complete and investigation into wether the actuators do require upgrading will be done. Action extended to allow more time.
+215,2022-08-26 06:45:28.5+00,2022-08-26 06:45:28.5+00,15493,2,26/04/22 MZ - Action extended due to other priorities.
+216,2022-08-26 06:45:37.354+00,2022-08-26 06:45:37.354+00,15493,2,02/08/22 MZ - Action extended due to other priorities.
+217,2022-08-26 06:47:46.66+00,2022-08-26 06:47:46.66+00,15491,2,30/11/2021 Tbestwick - Review will form part of the design for the GTU take up system. Helix report to identify issues in this space.
+218,2022-08-26 06:47:56.052+00,2022-08-26 06:47:56.052+00,15491,2,9/12/2021 DL Following concept design review meeting Emtek have agreed to review the transition lengths as part of the detailed design phase of GTU upgrade project. Would still be good to get a helix report done as well to further understand tension issues.
+219,2022-08-26 06:48:22.214+00,2022-08-26 06:48:22.214+00,15491,2,"27/02/2022 MZ Based on current concept design, the tail pulley will  move back another 1.1m to creat more transition length. Conti belt has been contected to provide a 3rd part report. Action to be extended to confirm it in the detail design."
+220,2022-08-26 06:48:34.193+00,2022-08-26 06:48:34.193+00,15491,2,26/04/2022 MZ to be reviewed  at phase 2 detail design.
+221,2022-08-26 06:48:46.816+00,2022-08-26 06:48:46.816+00,15491,2,21/06/2022 MZ to be reviewed  at phase 2 detail design. waiting for chang request  approval.
+185,2022-10-27 02:33:25.41548+00,2022-10-27 02:33:25.415514+00,15593,8000,Due date extended - OEM has been contacted to eliminate root cause of damage.
+222,2022-08-26 06:49:36.8+00,2022-08-26 06:49:36.8+00,15489,2,30/11/2021 Tbestwick - same action as 508
+223,2022-08-26 06:51:04.083+00,2022-08-26 06:51:04.083+00,15488,2,30/11/2021 Tbestwick - Action not completed due to other priorities. Due date extended
+224,2022-08-26 06:49:50.014+00,2022-08-26 06:49:50.014+00,15489,2,28/01/2022 MZ Action extended due to other priorites. A spreadsheet of hydraulic parts has been developed. More time is required to finalize the spreadsheet.
+225,2022-08-26 06:49:58.504+00,2022-08-26 06:49:58.504+00,15489,2,26/04/2022 MZ Action extended due to other priorites. Need more time to finalized the part list.
+226,2022-08-26 06:50:08.502+00,2022-08-26 06:50:08.502+00,15489,2,"28/02/2022 MZ Action extended due to other priorites. Pipe works has been added into critical spares list,"
+227,2022-08-26 06:50:19.69+00,2022-08-26 06:50:19.69+00,15489,2,"21/06/2022 MZ Spare part list is complete, sent to maintenance for reviewing. Action extended."
+228,2022-08-26 06:51:13.801+00,2022-08-26 06:51:13.801+00,15488,2,"20/12/2021 D Linehan - Action not completed due to other priorities. Due date extended. Currently it appears there is no strategy in place for these valves. Valves are very low cost, need to look at creating PM02 strategy possibly 52W replacement. "
+229,2022-08-26 06:52:22.24+00,2022-08-26 06:52:22.24+00,15480,2,TB 19/08/2021 - replacement hoses orderd however review of all critical spares not completed. Acion extended 
+230,2022-08-26 06:51:22.852+00,2022-08-26 06:51:22.852+00,15488,2,11/01/2022 MZ Reviewed current PM02 strategy on SAP. Limited strategy in place. More time is required.
+231,2022-08-26 06:52:33.285+00,2022-08-26 06:52:33.285+00,15480,2,Engineering to supply list of critical spares and quantities required to planning team. Planning team to raise ATI for new quantities\n
+232,2022-08-26 06:51:30.342+00,2022-08-26 06:51:30.342+00,15488,2,27/02/2022 MZ - Action not completed due to other priorities. Due date extended
+233,2022-08-26 06:51:38.646+00,2022-08-26 06:51:38.646+00,15488,2,26/04/2022 MZ Action extended due to other priorites. Need more time to finalized the part list.
+234,2022-08-26 06:51:46.279+00,2022-08-26 06:51:46.279+00,15488,2,"21/06/2022 MZ Spare part list is complete, sent to maintenance for reviewing. Action extended."
+235,2022-08-26 06:52:44.516+00,2022-08-26 06:52:44.516+00,15480,2,Spoke to Raj 14.07.2021 who advises the information will be available by 20/7/21
+236,2022-08-26 06:52:52.368+00,2022-08-26 06:52:52.368+00,15480,2,25/10 DL Action Extened need to collate critical spares information and engage planning team to update warehouse quantities as required
+237,2022-08-26 06:53:02.893+00,2022-08-26 06:53:02.893+00,15480,2,11/01 MZ Action extended due to other priorites. A spreadsheet of hydraulic parts has been developed. More time is required to finalize the spreadsheet.
+238,2022-08-26 06:53:14.778+00,2022-08-26 06:53:14.778+00,15480,2,27/02 MZ Action Extened need to collate critical spares information from Power flow
+239,2022-08-26 06:53:23.347+00,2022-08-26 06:53:23.347+00,15480,2,26/04/2022 MZ Action extended due to other priorites. Need more time to finalized the part list.
+240,2022-08-26 06:53:32.853+00,2022-08-26 06:53:32.853+00,15480,2,"21/06/2022 MZ Spare part list is complete, send to shut team for reviewing. Action extended."
+241,2022-08-26 06:54:09.773+00,2022-08-26 06:54:09.773+00,15510,2,09/06/2022 - Awaiting track survey to be completed by Track maintenance team AC
+242,2022-08-26 06:55:42.861+00,2022-08-26 06:55:42.861+00,15485,2,16/08/2022 SW - HPU's still pending upgrade via capital project. Operating parameters cannot be same until HPUs upgraded.
+243,2022-08-26 06:55:51.42+00,2022-08-26 06:55:51.42+00,15485,2,02/08/2022 MZ- Due date extended due to other priority\n
+244,2022-08-26 06:56:00.241+00,2022-08-26 06:56:00.241+00,15485,2,30/1/22 KH - Current cut/in out setings for CR001 are 1000-1200 PSI. CR002 are 1200-1400 PSI.
+245,2022-08-26 06:56:08.945+00,2022-08-26 06:56:08.945+00,15485,2,HPU audit conducted 8/12/21 by HWC identified a leak/bypass within the hydraulic toggle on CR002 system causing the system to cycle every 2.5 min. Maintenance adjusted settings as at OEM specs with the leakage it as causing CR002 to overheat due to the cycling.
+246,2022-08-26 06:56:16.018+00,2022-08-26 06:56:16.018+00,15485,2,Capital project in FY23 to replace both HPUs. Some electrical work required to integrate to FMG crushers. Mitch Steel currently progressing
+247,2022-08-26 06:56:55.628+00,2022-08-26 06:56:55.628+00,15504,2,22/04/2022 MZ\nDue date extended due to limited technical writer resource
+248,2022-08-26 06:57:03.325+00,2022-08-26 06:57:03.325+00,15504,2,21/7/22 WH \nDue date extended to allow sufficent completion time for Tech Writer who commences with the team end of July.
+249,2022-08-26 06:57:45.57+00,2022-08-26 06:57:45.571+00,15476,2,"16.06.21 MS - PRT has been downloaded and CFP gland water pressures is definitly above IOM specs and will be changed to 200-220 kPA. Before closing this action, a full review of all gland water pressures across WFE and desand is required so PRT CB-02007-WI-ME-0052 can be fully updated. Changing the due date to account for this update."
+250,2022-08-26 06:57:54.479+00,2022-08-26 06:57:54.479+00,15476,2,19.10.21 MS - Extention required as we have engaged Weir rep to complete audit on their pump gland waters and make recommendations on materials & operating parameters. Will change the PRT to suit once completed.
+251,2022-08-26 06:58:03.037+00,2022-08-26 06:58:03.037+00,15476,2,"22.02.22 MS - Discharge pressures of pumps still not confirmed so PRT can not be updated yet. Extension required to esnure vendor, Mets & maintenance input is gathered and PRT corrected."
+252,2022-08-26 06:58:13.987+00,2022-08-26 06:58:13.987+00,15476,2,MS 25.08 - Work continuing with gland systems and input from mets and vendors. Will continue to progress with changes to PRT
+253,2022-08-26 06:59:08.107+00,2022-08-26 06:59:08.107+00,15503,2,21/06/2022 MZ Action extended due to other priority tasks
+254,2022-08-26 06:59:42.836+00,2022-08-26 06:59:42.836+00,15502,2,21/06/2022 MZ  Action extended dur to other priority tasks
+255,2022-08-26 07:05:58.712+00,2022-08-26 07:05:58.712+00,15460,2,30/12/2020 MD - A magnet is to be installed over CV009 to pick up any tramp metal before the metal detector and reduce CV009 stoppages.
+256,2022-08-26 07:06:10.388+00,2022-08-26 07:06:10.388+00,15460,2,07/05/2021 MD - Waiting on an update from Ops Projects. Due date pushed out until after the next shutdown
+257,2022-08-26 07:06:17.199+00,2022-08-26 07:06:17.199+00,15460,2,14/07/2021 MD - Reassigned to site projects team for execution.
+258,2022-08-26 07:06:26.268+00,2022-08-26 07:06:26.268+00,15460,2,28/04/22 DE Meeting - Installation planned for CP22OP03
+259,2022-08-26 07:09:23.53+00,2022-08-26 07:09:23.53+00,15483,2,Install air relief vents in desands\n\n9/10 DL Quotes recieved for vents and design of modified spools for vents. Aiming to have parts on order in the next month. Due date extended by 1 month
+260,2022-08-26 07:09:31.429+00,2022-08-26 07:09:31.429+00,15483,2,"24/01/22 All west engineering has been on site and scanned the piping. Design to commence in the next week. Action extend to completed the design, fab and install"
+261,2022-08-26 07:09:38.928+00,2022-08-26 07:09:38.929+00,15483,2,15/11 RJ  - Design and fab is awarded to AWE need to time to compelete design and fab due date extended
+262,2022-08-26 07:09:48.029+00,2022-08-26 07:09:48.029+00,15483,2,26/05 RJ - Design work is ongoing. Priority AWE priority was to complete capital projects. This project will get picked up this month
+263,2022-08-26 07:10:13.112+00,2022-08-26 07:10:13.112+00,15481,2,RJ 15/09 : Feed spout and chute assenbly redesign is underway. preliminary design has been submitted by Bradken. 
+186,2022-10-27 06:17:25.564921+00,2022-10-27 06:17:25.564954+00,15572,685,UT and Thermo conducted till risk removed\n
+264,2022-08-26 07:10:21.349+00,2022-08-26 07:10:21.349+00,15481,2,Due date extension required for engineering and design activities to take place\n\n15/11/2021 - As per schedule submitted by Bradken. due date extended to April 2022
+265,2022-08-26 07:10:31.262+00,2022-08-26 07:10:31.262+00,15481,2,"19/04/2022 - Bradken are unable to supply the required liners. Alloy Steel has been engaged to provide a proposal. Require funding approval to move forward with Alloy Steel. Due date extended to secure required funding, completed engineering, manufacture new liner package and carry out a trial."
+266,2022-08-26 07:12:48.434+00,2022-08-26 07:12:48.434+00,15486,2,2/11/2021 Tbestwick - Job planned for installation during CP22OP01 as a part of a larger capital project for pan type rip detection. CV213 still requires scoping. due date pushed to allow sufficient time to complete.
+267,2022-08-26 07:12:57.141+00,2022-08-26 07:12:57.141+00,15486,2,"16/12/2021 DL Pantypes are being designed externally, expect to have drawings back around Jan-Feb\nScope and plan installation of CV213 pan type rip detector"
+268,2022-08-26 07:13:03.065+00,2022-08-26 07:13:03.065+00,15486,2,"25/02/2022 MD - Drawings expected by early March, due date extended."
+269,2022-08-26 07:13:12.508+00,2022-08-26 07:13:12.508+00,15486,2,11/04/2022 MD - Vendor required site verification of dimensions which was completed in the OP02 shutdown. Waiting on final drawings.
+270,2022-08-26 07:13:18.475+00,2022-08-26 07:13:18.475+00,15486,2,10/05/2022 MD - CV213 pan type requires a custom design which is still in progress.
+271,2022-08-26 07:13:25.451+00,2022-08-26 07:13:25.451+00,15486,2,16/07/2022 MD - 3D scan completed during CP22OP03 shutdown.
+272,2022-08-26 07:14:14.923+00,2022-08-26 07:14:14.923+00,15037,2,24/01/2022 TB - Action needs to be completed during a shut down. Plan to complete in CP22OP03. Action extended to reflect
+273,2022-08-26 07:14:22.9+00,2022-08-26 07:14:22.9+00,15037,2,Existing PRT attached to tower type GTUs is inadequate. Australian standard AS2759 details maintenance requirements for GTU towers. Complete an audit of CV111 GTU tower in accordance with AS2759 to identify any existing defects. 
+274,2022-08-26 07:14:52.42+00,2022-08-26 07:14:52.42+00,15487,2,17/11/2021 DL Extended to allow time to confirm what parts are correct for each shuttle as there are disrepencies between what is installed on rotable spares and what is in service.
+275,2022-08-26 07:14:58.48+00,2022-08-26 07:14:58.48+00,15487,2,14/12/2021 SAP data collected. Extended to get feedback from rotables team about what direction they are giving to vendors for what brake models to install.
+276,2022-08-26 07:15:05.973+00,2022-08-26 07:15:05.973+00,15487,2,20/12/2021 DL Unable to complete due to higher priority action. Due date extended to comeplete review.
+277,2022-08-26 07:19:43.942+00,2022-08-26 07:19:43.942+00,15490,2,"01/05/2022 MD - Information sent to Schenck, waiting for a response."
+278,2022-08-26 07:15:17.895+00,2022-08-26 07:15:17.895+00,15487,2,"31/12/2021 DL  Brake  models catalogued in SAP are ""correct"" as per orginal drawings. Have contacted rotables team to find out what direction we are giving to refurb vendors on what brakes to use. as we have some different brakes installed to what is in SAP"
+279,2022-08-26 07:15:25.317+00,2022-08-26 07:15:25.317+00,15487,2,"25/1/22 DL Still awaiting response from rotables, have followed up. Action extended"
+280,2022-08-26 07:15:38.743+00,2022-08-26 07:15:38.743+00,15487,2,"15/2/22 DL: Rotables have responded, they currently direct vendors to replace motor breaks like for like.  They are investigating what directive has been given in the past. Still waiting for response. Due date extened, will follow up rotables."
+281,2022-08-26 07:21:33.251+00,2022-08-26 07:21:33.251+00,15501,2,13/03/22 - KH - Metso contacted for confirmation of design. Local support have agreed with short term solution and are awaiting feedback from European division to confirm specifications. Awaiting feedback prior to close out of action. Due date extended.
+282,2022-08-26 07:15:48.422+00,2022-08-26 07:15:48.422+00,15487,2,15/3/22 DL: Still no response from rotables. Have handed action over to MZ and TB. Due date extended
+283,2022-08-26 07:15:56.038+00,2022-08-26 07:15:56.038+00,15487,2,14/4/22 DL: Still no response from rotables. Due date extended
+284,2022-08-26 07:21:43.386+00,2022-08-26 07:21:43.386+00,15501,2,05/07/2022 - SW - Have followed-up with METSO numerous times for formal agreement on a long-term solution. Conversations have suggested the site modifications already made are sufficient long-term. METSO Europe factory is still working on long-term solution.
+285,2022-08-26 07:16:03.854+00,2022-08-26 07:16:03.854+00,15487,2,21/6/22 MZ: Still no response from rotables. Due date extended
+286,2022-08-26 07:17:25.736+00,2022-08-26 07:17:25.736+00,15490,2,09/11/2021 MD - Need to work with Schenck to improve the design to reliably achieve 3 years service life.
+287,2022-08-26 07:19:49.486+00,2022-08-26 07:19:49.486+00,15490,2,"19/07/2022 MD - Still waiting on Schenck's response, chased up."
+288,2022-09-21 01:29:42.555+00,2022-09-21 01:29:42.555+00,15487,5867,21/09/22 Time to be extended due to other priority tasks
+289,2022-09-21 01:30:29.334+00,2022-09-21 01:30:29.334+00,15503,5867,21/09/22 Action to be extended due to other priority tasks
+290,2022-09-21 01:32:13.163+00,2022-09-21 01:32:13.163+00,15491,5867,"21/09/22 Action to be extended, 3rd party has been engaged to do a review of GTU upgrade "
+291,2022-09-21 03:08:23.168+00,2022-09-21 03:08:23.169+00,15494,5867,"21/09/2022 MZ - Contacted OEM and discussed the typical stroke movement, the design of linear actuator fits for purpose.\nThe breakdown is caused by inadequate rebuild rather than design limitation. This action is closed."
+292,2022-09-21 03:09:58.975+00,2022-09-21 03:09:58.975+00,15493,5867,"21/09/2022 MZ - Design has been completed, action extended  to execute the installation."
+293,2022-09-21 03:19:38.531+00,2022-09-21 03:19:38.531+00,15480,5867,21/09/2022 MZ - Action extended due to other priorities.
+294,2022-09-21 03:20:11.271+00,2022-09-21 03:20:11.271+00,15488,5867,21/09/2022 MZ - Action extended due to other priorities.
+295,2022-09-21 03:20:20.915+00,2022-09-21 03:20:20.915+00,15489,5867,21/09/2022 MZ - Action extended due to other priorities.
+296,2022-09-21 03:24:42.347+00,2022-09-21 03:24:42.347+00,15467,5867,21/09/2022 MZ - Action extended due to other priorities.
+110,2022-08-26 07:38:57.145756+00,2022-08-26 07:38:57.14579+00,15590,2,MS 25/08 - HWC have returned to site and scoped up the install oif the units on both CR001 & CR002. The HPUS have been sent back to their workshop for conversion so they are suitable.\nNotis will be riased and WO planned in for when labour and materials are ready
+108,2022-08-26 07:38:44.274879+00,2022-08-26 07:38:44.274916+00,15590,2,"MS 22.02.22 - After discussions with HWC, the plan is to get the new Metso HPU's sent away so they are electrically suitable and install during an outage. The old rotable HPU will also be sent back to ensure its suitable for a breakdown situation once the Metso ones arrive.\nWill close action once HPU's are installed "
+107,2022-08-26 07:38:38.722793+00,2022-08-26 07:38:38.722831+00,15590,2, \t\nMS 16/12Awaiting review from HWC hydraulics for install methodology and cost. Will review and make a WO to suit if approved by all stakeholders\n
+109,2022-08-26 07:38:51.930961+00,2022-08-26 07:38:51.930996+00,15590,2,"MS 02/06 still progressing with getting HPU's converted ready for install, more time required"
+111,2022-08-29 07:20:36.83705+00,2022-08-29 07:20:36.837084+00,15593,2, 28/07/2022 MZ \nDue date extend due to other priority tasks
+112,2022-08-29 07:21:21.359751+00,2022-08-29 07:21:21.359789+00,15594,2,28/07/2022 MZ\nDue date extend due to other priority tasks
+113,2022-08-29 07:40:10.920222+00,2022-08-29 07:40:10.920255+00,15595,2,CWALPOLE 15/08/22 - WO# 2100119253 Planned in  for CP22OP04\n\nNotification 110010996 Raised to rectify in OP04
+114,2022-08-29 07:40:58.924301+00,2022-08-29 07:40:58.924341+00,15596,2, \t15/08/2022 MD - Due date extended to allow Shane time to review.
+115,2022-08-30 01:03:22.567855+00,2022-08-30 01:03:22.56789+00,15597,2,"15/08/2022 MD - Metso engaged but discussions have stalled. Asset Management have organised a meeting with Metso, so this can be included in the agenda."
+116,2022-08-30 01:11:12.902703+00,2022-08-30 01:11:12.902747+00,15599,2, 30/07/2022 MD - Halved liners discussed with Metso. They're keen to modify the current liner package if we don't go for the Polymet liner upgrade. Due date extended to allow time for Polymet descision to be made.
+117,2022-08-30 01:20:39.491885+00,2022-08-30 01:20:39.491925+00,15600,2,Jordan Sargent 21/08/2022 -\nAction extended to allow more time to review feasibility\n\nNew action 26/06/2022
+118,2022-08-30 01:22:00.521434+00,2022-08-30 01:22:00.521475+00,15601,2, New action 26/06/2022\n\nJ.Agius 21/08/2022\nDrawings redlined and uploaded to electrical folder to be sent for draft.
+119,2022-08-30 01:42:26.132409+00,2022-08-30 01:42:26.132462+00,15602,2,CV213 electric motors to be monitored on watchlist for VA. 
+120,2022-08-30 01:43:43.589661+00,2022-08-30 01:43:43.589701+00,15603,2,Switch room cameras show someone interacting with the VSD panel during a routine inspection. The footage was out of sync approx 1 hour which initially made this hard to find.
+121,2022-08-30 01:44:50.348991+00,2022-08-30 01:44:50.349027+00,15604,2, \tLocal/Remote button has been diabled on CV213VS01 and CV213VS0
+122,2022-08-30 01:45:43.888999+00,2022-08-30 01:45:43.889036+00,15605,2, KT 26/07/2022\nThe investigation determined that current monitoring was not the best solution.  The status of the drive being in local or remote is now displayed as a warning so that there will be an indication if this occurs again.   
+123,2022-08-30 02:11:17.806097+00,2022-08-30 02:11:17.806136+00,15609,2,15.08.22 CWALPOLE - Currently all OLC's have a 2W online inspection with MP inspections already on the WO.\nThere is also a 52W offline inspection conducted by austdac technician 
+124,2022-08-30 02:15:09.972391+00,2022-08-30 02:15:09.972427+00,15613,2, \t25/08/2022 TBestwick - Atuator has been delayed until October based on latest corrospondence. action extended to align with new deliver date.
+125,2022-08-30 02:15:15.675303+00,2022-08-30 02:15:15.67534+00,15613,2,28/07/2022 MZ\nDue date extend due to other priority tasks
+126,2022-08-31 05:39:52.514197+00,2022-08-31 05:39:52.514246+00,15622,2," 10/08/2022 MD - Lack of P&IDs contributed to the downtime duration, as the water line had to be walked manually to find the issue."
+127,2022-09-15 05:27:49.039993+00,2022-09-15 05:27:49.040025+00,15602,7216,"CV213 Electric motor added to CM Watchlist for closer monitoring. No indications of condition deterioration after 4 weeks monitoring, revert to VA collection at scheduled frequency."
+128,2022-09-15 09:40:58.130498+00,2022-09-15 09:40:58.130538+00,15579,7216,"Review of data collection identified additional accelerometers required - Notifications 1200089290, 1200089294, 1200089295 raised to rectify."
+129,2022-09-19 07:40:01.713797+00,2022-09-19 07:40:01.713834+00,15887,3,10/12 completed as of 19/09/2022
+130,2022-09-19 09:02:59.602333+00,2022-09-19 09:02:59.602369+00,15887,3,CORECTION: 9/12 completed as of 19/09/2022
+140,2022-09-21 05:28:26.97636+00,2022-09-21 05:28:26.976394+00,15575,5867,"21/09/2022 MZ - Part number has been identified, quote and torque setting have been sent to shut team."
+141,2022-09-25 06:48:07.877814+00,2022-09-25 06:48:07.877851+00,15886,3,No longer required as vacuum tested locally and was strong.
+142,2022-09-25 06:50:40.365707+00,2022-09-25 06:50:40.365741+00,15884,3,Engine approved by OEM to continue operation as per normal (just not as a banker due to unrelated oil issue). Other actions already in place to resolve filter gap issues.
+143,2022-10-04 01:55:31.222536+00,2022-10-04 01:55:31.22257+00,15874,7048,Cable tray inspected and supported when it moving. Cable was replaced and other cables were covered in rubber to prevent damage
+144,2022-10-04 01:58:43.825547+00,2022-10-04 01:58:43.825584+00,15876,7048,cable was replaced and tied over in op04
+145,2022-10-04 02:01:38.371216+00,2022-10-04 02:01:38.371251+00,15601,7048,redlines completed
+146,2022-10-04 06:29:00.094984+00,2022-10-04 06:29:00.09502+00,15595,12625,Change has been implemented in CP22OP04 and tested
+147,2022-10-04 06:42:40.180728+00,2022-10-04 06:42:40.180768+00,15609,12625,04.10.22 CWALPOLE - 3 separate PRT's have been created and approved for the 3 MD's below\n\n09.09.22 CWALPOLE - 3 separate MD noti's have been raised for 52W online inspections to inspect each PWS junction box.\n
+149,2022-10-06 00:57:47.097099+00,2022-10-06 00:57:47.097136+00,15612,540,Strip and assess has been completed. Tbestwick attended at Afkos. Issue identified as lack of lubrication in the bearings for the lead screw carrier housing.
+154,2022-10-06 02:00:30.625625+00,2022-10-06 02:00:30.62566+00,15858,12625,All shut jobs will require QA/QC from FMG personnel. This was implemented fully in CP22OP04 and was very succesful
+156,2022-10-06 09:17:46.031496+00,2022-10-06 09:17:46.031529+00,15600,573,The issue was found to be that the tag was referencing a wrong PLC address (unused and therefore constant in value). The stale EGD data is detected by monitoring the EGD watchdog. Therefore there is no requirement for an audit of this size and complexity.
+160,2022-10-12 23:28:43.681602+00,2022-10-12 23:28:43.681637+00,15626,6957,Due date extended to allow more time to engage the vendor to source strainers and scope the installation
+161,2022-10-12 23:30:05.16058+00,2022-10-12 23:30:05.160626+00,15625,6957,Due date extended to allow time to implement maintenance strategies 
+162,2022-10-12 23:31:48.029089+00,2022-10-12 23:31:48.029128+00,15622,6957,- Still have not engaged a vendor to update P&ID's. require more time to complete this work. 
+163,2022-10-12 23:34:57.164733+00,2022-10-12 23:34:57.164772+00,15578,6957,Strip and assess completed and have confirmed that it was a cage failure
+164,2022-10-12 23:38:22.949607+00,2022-10-12 23:38:22.949647+00,15890,6957,"Inspected the transfer chute during CP22OP04 shutdown and confirmed that the lower ledge of CV123-CV102 transfer chute is in serviceable condition. It was thought that this ledge may have been worn severely allowing rocks to impact the hard skirt liners however, since the condition of the ledge is good, it is not likely. "
+166,2022-10-13 02:15:53.615792+00,2022-10-13 02:15:53.615828+00,15577,2037,"14.09.2022 - SN \nThis has been completed the quote was received and these have been catalogued as per the quote. Parts ordered and parts added to BoM. \n\n01.09.22 - SN\nThese have been catalogued as per the quote from the emails sent.\nAn RFQ has been sent to CMPS to supply, as Gantrex aren‚Äôt a Vendor of FMG.\nOnce CMPS has replied, Action to purchase these clips as soon as possible.\nConducted several searches in SAP for the clips but failed to find anything of value with the part number or other criteria.\nEstimated delivery is 8-10 weeks from PO issue, and an additional 8-12 weeks if they are sent via sea freight.\n"
+167,2022-10-13 02:17:55.986362+00,2022-10-13 02:17:55.986395+00,15577,2037,15.09.2022 - SN - Rail Clips have been added to the BoM\n
+171,2022-10-13 02:31:48.013129+00,2022-10-13 02:31:48.013165+00,15587,2037,"13.10.2022 - SN: 04.10.22 - Ian Scott Created WO 2500007995 Replace primary Sample Cutter SC531 & placed into CP23TL01 revision. Capital specialist was emailed to advise a WBS for this change out. \nMaterials ordered on WO\n6006692\tPRIMARY CUTTER SPOON SC531\t1 \tEA\t$58,975.00\t    1-NEW\n3070329\tBOLT,ASSY,HEX,M16,70MM,GALV\t10 \tEA\t$0.83\n3070366\tBOLT GALV STRUCT ASSEMBLY M20X60\t2 \tEA\t$1.44\n\nTask list was checked by mitch Steel and is ok.  Large scaff build is captured with ample hours for set up/strip.\n\n10.10.22 - Job sheet has been created for Capital. Ready to be checked off and submitted. \n"
+173,2022-10-20 01:43:15.823038+00,2022-10-20 01:43:15.823077+00,15585,5867,20/10/2022 MZ Action extended due to other priority tasks\n
+174,2022-10-20 01:44:03.758183+00,2022-10-20 01:44:03.758221+00,15592,5867,20/10/2022 MZ Action extended due to other priority tasks
+175,2022-10-20 01:44:21.678633+00,2022-10-20 01:44:21.678671+00,15574,5867,20/10/2022 MZ Action extended due to other priority tasks
+176,2022-10-20 01:44:37.898179+00,2022-10-20 01:44:37.898219+00,15606,5867,20/10/2022 MZ Action extended due to other priority tasks
+177,2022-10-20 01:44:50.956666+00,2022-10-20 01:44:50.956712+00,15607,5867,20/10/2022 MZ Action extended due to other priority tasks
+178,2022-10-20 01:45:03.450033+00,2022-10-20 01:45:03.45007+00,15614,5867,20/10/2022 MZ Action extended due to other priority tasks
+180,2022-10-25 04:22:50.225827+00,2022-10-25 04:22:50.225858+00,15581,12625,Due date extended due to no report from ABB
+181,2022-10-25 08:10:01.709715+00,2022-10-25 08:10:01.710355+00,15950,5734,VF Rattle will alarm at 7am and 7pm every shift. Control will see alarm and call to Operations to commence VF rattles for that shift.
+182,2022-10-27 00:03:15.258833+00,2022-10-27 00:03:15.258869+00,15587,2037,"27.10.2022 - SNINKOVICH\nCost adjustment requested by planner to capital 21.10 for the Spoon. \ncost of the spoon for MN 6006692 is significantly higher than what is in SAP.\nNew quote sent to capital with request for increase of funds\nPO 4501954628 for MN 600692 is for $ 104,337.00\nCapital has updated job sheet and emailed through to Ian (planner) for review and sign off then will go to mechanical stakeholder for sign off. ONce WBS is added to WO RCS will be closed. "
